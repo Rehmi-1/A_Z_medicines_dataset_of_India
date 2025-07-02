@@ -1,0 +1,1001 @@
+user_id,age,gender,weight,symptoms,allergies,duration
+U0001,82,Male,31.8,"body pain, joint pain",Penicillin,1 day
+U0002,87,Other,92.5,chest pain,Aspirin,1 day
+U0003,4,Male,45.3,"chest pain, fever, runny nose",Penicillin,2 weeks
+U0004,54,Male,61.4,"joint pain, fever",Penicillin,1 week
+U0005,44,Female,40.9,"cough, joint pain",Aspirin,1 day
+U0006,46,Female,72.3,dizziness,Aspirin,2 weeks
+U0007,16,Female,35.5,"diarrhea, chest pain",Sulfa,2 weeks
+U0008,25,Other,34.9,"body pain, nausea, cough",Penicillin,1 day
+U0009,49,Female,61.7,"headache, vomiting",Sulfa,2 days
+U0010,86,Female,79.1,"diarrhea, cough, chest pain",Penicillin,2 weeks
+U0011,32,Male,62.4,"diarrhea, dizziness",Ibuprofen,2 days
+U0012,88,Female,89.0,body pain,None,3 days
+U0013,52,Female,34.6,"dizziness, vomiting, body pain",Aspirin,1 week
+U0014,83,Female,40.0,body pain,Ibuprofen,2 weeks
+U0015,34,Other,70.9,"fatigue, vomiting, body pain",Penicillin,2 weeks
+U0016,64,Male,82.9,headache,Penicillin,1 week
+U0017,77,Male,56.9,"sore throat, runny nose, nausea",Ibuprofen,1 day
+U0018,88,Other,38.0,"joint pain, nausea, diarrhea",Sulfa,1 day
+U0019,38,Female,41.1,dizziness,Sulfa,2 weeks
+U0020,23,Other,93.9,"nausea, diarrhea, runny nose",Ibuprofen,2 days
+U0021,20,Female,83.4,"joint pain, runny nose, fever",Ibuprofen,3 days
+U0022,63,Male,37.8,"joint pain, nausea",Penicillin,1 day
+U0023,31,Other,96.3,dizziness,Aspirin,1 day
+U0024,69,Male,39.0,"runny nose, headache",Sulfa,2 weeks
+U0025,78,Female,97.5,"joint pain, dizziness, body pain",Sulfa,1 week
+U0026,86,Other,56.1,"sore throat, cough, body pain",Penicillin,1 day
+U0027,44,Male,71.2,chest pain,Penicillin,1 day
+U0028,10,Other,74.2,cough,None,3 days
+U0029,10,Other,46.7,"sore throat, body pain, runny nose",Penicillin,2 weeks
+U0030,74,Female,47.0,"joint pain, fatigue",Penicillin,1 day
+U0031,13,Other,60.2,"fatigue, sore throat",None,1 day
+U0032,8,Female,81.0,body pain,Penicillin,2 days
+U0033,69,Female,39.8,nausea,Aspirin,2 days
+U0034,10,Female,86.6,"cough, fever, diarrhea",Ibuprofen,1 day
+U0035,12,Male,41.6,"sore throat, body pain",Aspirin,1 day
+U0036,22,Female,30.2,"nausea, sore throat",Sulfa,1 week
+U0037,90,Other,99.7,"diarrhea, dizziness, sore throat",Penicillin,2 days
+U0038,38,Male,97.8,"dizziness, runny nose, fever",Sulfa,1 day
+U0039,7,Other,63.4,"headache, fever, runny nose",None,2 days
+U0040,9,Other,34.8,fatigue,None,2 weeks
+U0041,32,Other,71.6,"cough, fatigue, diarrhea",Ibuprofen,2 weeks
+U0042,67,Female,95.4,diarrhea,Sulfa,2 days
+U0043,34,Female,39.2,"nausea, sore throat, vomiting",None,1 day
+U0044,59,Other,99.9,cough,Ibuprofen,2 days
+U0045,65,Female,39.3,"cough, body pain",Sulfa,3 days
+U0046,21,Female,88.4,"nausea, chest pain, diarrhea",Ibuprofen,1 day
+U0047,86,Other,51.0,"cough, headache, nausea",None,1 day
+U0048,71,Male,49.1,"body pain, dizziness, vomiting",Penicillin,3 days
+U0049,65,Female,47.6,cough,Aspirin,3 days
+U0050,6,Male,53.3,diarrhea,Sulfa,2 days
+U0051,57,Other,79.4,"fever, cough, dizziness",Penicillin,2 weeks
+U0052,5,Female,70.8,fatigue,Penicillin,1 day
+U0053,40,Female,92.9,vomiting,Penicillin,2 days
+U0054,86,Male,54.8,"fatigue, chest pain, headache",Penicillin,2 days
+U0055,23,Female,31.7,"vomiting, fatigue, diarrhea",Penicillin,3 days
+U0056,21,Other,37.6,sore throat,Penicillin,2 days
+U0057,59,Female,51.4,body pain,None,2 days
+U0058,52,Female,49.5,joint pain,Sulfa,3 days
+U0059,83,Other,58.0,"vomiting, fever, cough",Sulfa,2 days
+U0060,75,Female,32.7,"fatigue, vomiting, dizziness",Aspirin,2 weeks
+U0061,66,Male,57.0,"body pain, nausea, fever",Aspirin,1 day
+U0062,67,Other,78.1,"dizziness, diarrhea, body pain",Sulfa,1 week
+U0063,9,Other,94.5,"vomiting, diarrhea, cough",Sulfa,2 weeks
+U0064,40,Other,58.6,"dizziness, nausea",Ibuprofen,2 days
+U0065,25,Female,76.5,"diarrhea, dizziness",Penicillin,2 weeks
+U0066,73,Female,58.4,nausea,Sulfa,2 days
+U0067,56,Other,72.5,"sore throat, joint pain",Aspirin,2 days
+U0068,66,Female,85.6,"headache, diarrhea, cough",Sulfa,2 weeks
+U0069,85,Other,73.3,joint pain,Penicillin,3 days
+U0070,29,Male,40.3,body pain,Aspirin,2 weeks
+U0071,10,Female,59.0,"chest pain, body pain, fatigue",Aspirin,1 week
+U0072,32,Male,75.9,joint pain,None,1 week
+U0073,29,Male,86.3,"runny nose, sore throat, fever",Ibuprofen,2 days
+U0074,16,Female,39.3,"diarrhea, runny nose",Ibuprofen,2 weeks
+U0075,41,Female,72.9,"runny nose, fatigue, joint pain",Aspirin,2 days
+U0076,61,Female,48.1,diarrhea,Sulfa,2 weeks
+U0077,63,Other,46.7,"cough, dizziness",Sulfa,2 days
+U0078,35,Female,52.4,"cough, headache, dizziness",Penicillin,1 week
+U0079,89,Male,79.4,fatigue,Aspirin,3 days
+U0080,70,Female,59.1,fatigue,Aspirin,2 weeks
+U0081,90,Male,90.0,"fatigue, sore throat, fever",Sulfa,3 days
+U0082,50,Female,67.7,"runny nose, chest pain, body pain",Aspirin,2 days
+U0083,35,Female,64.0,"vomiting, diarrhea",Aspirin,2 days
+U0084,60,Male,98.7,"fever, fatigue, chest pain",Ibuprofen,1 day
+U0085,11,Other,60.0,"headache, fever",Sulfa,1 week
+U0086,42,Male,61.8,"joint pain, fatigue",Sulfa,1 week
+U0087,33,Male,62.9,"runny nose, fever, vomiting",Penicillin,1 day
+U0088,84,Male,82.8,body pain,None,2 weeks
+U0089,20,Male,38.8,"cough, chest pain, body pain",Aspirin,3 days
+U0090,48,Male,72.4,"dizziness, cough, headache",Sulfa,1 day
+U0091,75,Male,95.0,"diarrhea, fatigue, dizziness",Penicillin,1 day
+U0092,76,Other,88.1,cough,Sulfa,2 weeks
+U0093,16,Other,84.8,"runny nose, fatigue",Sulfa,1 day
+U0094,65,Other,53.9,"sore throat, cough",Aspirin,3 days
+U0095,82,Female,79.5,"headache, dizziness",Ibuprofen,3 days
+U0096,79,Other,84.2,"fatigue, dizziness",Ibuprofen,3 days
+U0097,42,Male,88.2,nausea,Aspirin,2 days
+U0098,60,Other,72.7,"vomiting, fever",Aspirin,3 days
+U0099,24,Female,44.8,"vomiting, nausea",Ibuprofen,3 days
+U0100,72,Male,66.2,cough,Penicillin,1 week
+U0101,63,Other,83.1,"sore throat, diarrhea, joint pain",Aspirin,1 day
+U0102,12,Female,45.5,"body pain, nausea, diarrhea",Ibuprofen,3 days
+U0103,61,Other,67.2,"dizziness, runny nose",Sulfa,3 days
+U0104,90,Female,49.0,"body pain, cough",Penicillin,3 days
+U0105,16,Other,67.5,"headache, body pain, dizziness",Aspirin,3 days
+U0106,76,Other,71.8,body pain,Sulfa,2 days
+U0107,47,Male,51.2,"runny nose, headache, nausea",None,1 day
+U0108,71,Female,78.8,diarrhea,Aspirin,1 day
+U0109,2,Other,49.9,"sore throat, vomiting",Penicillin,1 day
+U0110,33,Female,38.0,fatigue,Aspirin,1 day
+U0111,74,Other,78.1,headache,Ibuprofen,3 days
+U0112,11,Male,38.3,"chest pain, joint pain",Ibuprofen,2 days
+U0113,67,Female,61.5,"nausea, chest pain",Aspirin,3 days
+U0114,73,Other,34.2,"cough, body pain, diarrhea",Penicillin,3 days
+U0115,85,Male,41.0,runny nose,None,2 days
+U0116,1,Female,61.5,"sore throat, nausea, fever",Penicillin,3 days
+U0117,37,Other,90.2,diarrhea,Penicillin,3 days
+U0118,81,Other,76.3,fatigue,None,2 weeks
+U0119,29,Other,40.4,"headache, cough",None,2 days
+U0120,40,Other,82.4,"nausea, sore throat, cough",Aspirin,3 days
+U0121,90,Female,96.0,"runny nose, sore throat, dizziness",None,2 weeks
+U0122,6,Female,81.4,"nausea, fever, cough",Penicillin,2 weeks
+U0123,76,Male,100.0,"nausea, chest pain, fever",Penicillin,1 week
+U0124,67,Other,61.0,"headache, chest pain",Aspirin,1 week
+U0125,12,Female,54.4,"vomiting, diarrhea",None,2 days
+U0126,43,Female,78.6,"diarrhea, fatigue",Ibuprofen,1 day
+U0127,59,Male,52.0,"cough, fatigue",Ibuprofen,1 day
+U0128,85,Other,62.3,body pain,Ibuprofen,3 days
+U0129,80,Female,73.8,body pain,Sulfa,2 weeks
+U0130,17,Female,60.7,"sore throat, cough, fever",Ibuprofen,2 days
+U0131,21,Female,68.6,"fatigue, cough, body pain",None,1 week
+U0132,16,Other,88.3,"dizziness, nausea",Ibuprofen,3 days
+U0133,54,Female,98.6,sore throat,Ibuprofen,2 days
+U0134,50,Male,94.5,"dizziness, headache, cough",Sulfa,1 week
+U0135,44,Other,48.7,nausea,Sulfa,2 weeks
+U0136,75,Other,64.3,sore throat,Ibuprofen,1 week
+U0137,45,Female,68.6,"fatigue, sore throat, vomiting",Penicillin,2 days
+U0138,74,Female,46.3,"fever, vomiting",Aspirin,1 week
+U0139,50,Other,85.5,"headache, sore throat, fever",Penicillin,2 weeks
+U0140,76,Female,90.9,"cough, runny nose",Aspirin,1 day
+U0141,19,Female,91.0,cough,Aspirin,3 days
+U0142,44,Other,78.5,"cough, vomiting, diarrhea",Ibuprofen,1 week
+U0143,41,Other,80.3,"runny nose, fever",Ibuprofen,1 day
+U0144,31,Other,77.9,"body pain, dizziness",None,1 week
+U0145,13,Other,79.3,sore throat,Penicillin,3 days
+U0146,4,Male,52.7,nausea,Sulfa,3 days
+U0147,56,Male,47.1,"chest pain, diarrhea",Penicillin,2 days
+U0148,23,Male,72.7,"chest pain, diarrhea",Penicillin,1 week
+U0149,75,Male,46.3,"nausea, sore throat, joint pain",None,1 week
+U0150,37,Other,68.3,sore throat,Sulfa,2 weeks
+U0151,39,Other,97.3,"nausea, sore throat, joint pain",Penicillin,1 week
+U0152,62,Male,46.6,"vomiting, chest pain, nausea",Sulfa,1 day
+U0153,85,Female,49.2,"diarrhea, dizziness, fever",Ibuprofen,1 week
+U0154,37,Male,72.5,"body pain, diarrhea",Penicillin,2 weeks
+U0155,33,Other,82.9,"diarrhea, headache, joint pain",None,1 day
+U0156,40,Female,32.3,"dizziness, headache",None,3 days
+U0157,42,Other,59.1,headache,Ibuprofen,3 days
+U0158,68,Other,93.9,nausea,Aspirin,3 days
+U0159,44,Male,62.8,headache,Penicillin,1 week
+U0160,72,Female,36.3,"fever, nausea",Ibuprofen,1 day
+U0161,59,Female,77.1,"nausea, chest pain, fatigue",Sulfa,1 day
+U0162,87,Male,63.0,"runny nose, vomiting, chest pain",Penicillin,1 day
+U0163,82,Female,93.7,"diarrhea, fatigue",None,2 days
+U0164,6,Male,51.3,"cough, joint pain",Penicillin,2 weeks
+U0165,18,Female,61.8,"dizziness, joint pain, runny nose",Aspirin,2 weeks
+U0166,20,Female,75.8,"chest pain, fatigue",Sulfa,1 day
+U0167,89,Female,45.2,"body pain, vomiting",None,3 days
+U0168,70,Other,55.1,"nausea, body pain",None,1 week
+U0169,12,Other,44.8,"chest pain, fever, dizziness",Sulfa,2 days
+U0170,17,Other,44.4,"body pain, chest pain, joint pain",Penicillin,3 days
+U0171,19,Other,30.2,headache,Ibuprofen,3 days
+U0172,23,Male,76.3,headache,None,3 days
+U0173,31,Other,52.7,nausea,None,2 days
+U0174,54,Other,38.0,sore throat,Aspirin,3 days
+U0175,66,Other,37.6,"body pain, chest pain, fever",Ibuprofen,3 days
+U0176,59,Other,97.5,sore throat,Aspirin,1 week
+U0177,88,Male,64.3,"cough, joint pain",Sulfa,2 weeks
+U0178,19,Male,38.8,"diarrhea, chest pain, runny nose",Sulfa,1 week
+U0179,77,Other,50.6,"chest pain, fatigue, cough",None,2 weeks
+U0180,28,Female,61.6,fatigue,Sulfa,1 week
+U0181,52,Female,81.1,"fatigue, vomiting",Sulfa,3 days
+U0182,20,Other,94.6,cough,None,1 day
+U0183,56,Male,82.1,"joint pain, headache",Ibuprofen,1 day
+U0184,76,Other,69.3,"cough, fatigue, vomiting",Aspirin,1 day
+U0185,37,Other,51.9,chest pain,Ibuprofen,2 days
+U0186,20,Other,63.8,vomiting,Ibuprofen,3 days
+U0187,15,Female,70.2,"runny nose, chest pain",Ibuprofen,2 weeks
+U0188,4,Other,95.0,"nausea, fever, headache",Sulfa,3 days
+U0189,44,Female,30.4,chest pain,Aspirin,1 day
+U0190,19,Other,74.3,cough,Ibuprofen,2 days
+U0191,49,Female,61.8,vomiting,Sulfa,3 days
+U0192,73,Other,35.9,headache,Penicillin,2 weeks
+U0193,7,Other,35.7,"diarrhea, fatigue",Aspirin,2 weeks
+U0194,57,Female,49.1,"cough, vomiting, fatigue",None,3 days
+U0195,87,Other,71.5,"diarrhea, nausea, fever",Penicillin,1 week
+U0196,77,Male,30.5,"body pain, headache",Sulfa,3 days
+U0197,42,Male,30.5,"fatigue, headache, dizziness",Aspirin,2 weeks
+U0198,30,Other,69.1,"joint pain, vomiting, cough",Aspirin,1 day
+U0199,56,Male,62.2,vomiting,Ibuprofen,1 week
+U0200,74,Female,79.7,"nausea, cough",Aspirin,1 day
+U0201,42,Male,86.1,"sore throat, dizziness, vomiting",None,1 week
+U0202,14,Male,60.5,"runny nose, cough",Aspirin,3 days
+U0203,44,Male,53.3,cough,Ibuprofen,1 day
+U0204,68,Other,43.6,"vomiting, dizziness",Penicillin,2 days
+U0205,14,Male,47.9,chest pain,Penicillin,1 day
+U0206,23,Other,64.6,"joint pain, chest pain, sore throat",Ibuprofen,2 weeks
+U0207,42,Other,52.1,"cough, sore throat",Aspirin,3 days
+U0208,36,Other,33.9,"cough, nausea, sore throat",Aspirin,1 day
+U0209,8,Female,88.2,diarrhea,None,2 weeks
+U0210,77,Other,56.9,"runny nose, dizziness, fever",Aspirin,2 weeks
+U0211,84,Male,52.5,"runny nose, headache",None,1 week
+U0212,14,Female,98.8,runny nose,Penicillin,1 day
+U0213,32,Other,60.6,"runny nose, joint pain",Ibuprofen,2 days
+U0214,47,Female,94.3,"fatigue, vomiting",Ibuprofen,1 day
+U0215,81,Other,53.4,"cough, runny nose",Aspirin,3 days
+U0216,33,Other,89.6,"headache, vomiting, cough",Ibuprofen,2 days
+U0217,45,Female,97.7,"diarrhea, fatigue, headache",Ibuprofen,1 day
+U0218,40,Other,56.4,"headache, diarrhea",Ibuprofen,1 day
+U0219,83,Other,59.6,"fever, vomiting",Sulfa,2 days
+U0220,28,Female,96.3,"body pain, joint pain",Penicillin,2 days
+U0221,10,Female,89.1,runny nose,Ibuprofen,2 weeks
+U0222,5,Other,53.6,"headache, chest pain, fatigue",Penicillin,2 days
+U0223,24,Other,84.0,dizziness,Aspirin,1 day
+U0224,53,Female,77.3,sore throat,Ibuprofen,3 days
+U0225,58,Male,67.4,"joint pain, sore throat",Penicillin,3 days
+U0226,87,Other,98.9,"joint pain, nausea",Aspirin,2 weeks
+U0227,68,Female,97.6,joint pain,Ibuprofen,2 days
+U0228,33,Male,74.9,"runny nose, cough",Ibuprofen,1 day
+U0229,37,Male,83.4,"sore throat, runny nose",Penicillin,1 week
+U0230,12,Male,87.2,"fever, fatigue",None,1 week
+U0231,65,Female,46.5,vomiting,Penicillin,1 day
+U0232,41,Male,88.7,"vomiting, headache, dizziness",None,3 days
+U0233,61,Other,88.2,"sore throat, joint pain, chest pain",None,1 day
+U0234,3,Female,45.1,runny nose,Ibuprofen,2 weeks
+U0235,55,Male,84.3,nausea,None,1 day
+U0236,31,Female,74.7,"sore throat, cough, dizziness",Aspirin,2 weeks
+U0237,69,Male,74.2,"body pain, dizziness, headache",Sulfa,1 week
+U0238,1,Other,54.7,"fatigue, headache, diarrhea",None,2 weeks
+U0239,47,Male,96.7,"runny nose, joint pain, dizziness",None,1 week
+U0240,61,Male,74.5,"nausea, dizziness",None,3 days
+U0241,9,Female,46.9,"diarrhea, cough, chest pain",Sulfa,2 days
+U0242,6,Female,68.2,"headache, diarrhea, sore throat",Aspirin,2 days
+U0243,18,Male,80.1,"fever, nausea",Penicillin,1 day
+U0244,26,Male,52.1,"runny nose, fatigue",Ibuprofen,1 week
+U0245,33,Male,82.7,nausea,Sulfa,1 day
+U0246,84,Female,49.1,"fatigue, joint pain",Aspirin,1 week
+U0247,44,Male,64.7,"vomiting, runny nose",Sulfa,1 day
+U0248,55,Male,60.1,runny nose,Sulfa,3 days
+U0249,14,Male,53.0,"nausea, sore throat",Ibuprofen,1 week
+U0250,22,Other,61.1,"fever, dizziness",Sulfa,2 weeks
+U0251,56,Female,74.8,cough,Aspirin,3 days
+U0252,66,Other,77.6,headache,Ibuprofen,1 week
+U0253,5,Male,34.7,"vomiting, joint pain, fatigue",Ibuprofen,1 day
+U0254,78,Male,77.5,"vomiting, sore throat",None,2 weeks
+U0255,18,Other,55.7,"diarrhea, nausea",Penicillin,1 day
+U0256,4,Other,43.0,"fatigue, runny nose, cough",Sulfa,3 days
+U0257,58,Male,99.7,"dizziness, sore throat",Penicillin,1 day
+U0258,18,Male,61.6,"sore throat, cough, diarrhea",Sulfa,3 days
+U0259,9,Other,68.0,"headache, dizziness",Penicillin,3 days
+U0260,66,Male,38.5,joint pain,Penicillin,2 days
+U0261,64,Male,55.3,"vomiting, sore throat, runny nose",Penicillin,2 weeks
+U0262,12,Male,51.7,"dizziness, sore throat, runny nose",Aspirin,1 week
+U0263,74,Male,38.8,"diarrhea, cough",Aspirin,1 week
+U0264,88,Other,54.1,"diarrhea, chest pain, headache",Penicillin,1 week
+U0265,65,Male,88.2,"headache, nausea, joint pain",Penicillin,3 days
+U0266,29,Female,96.3,"nausea, cough, joint pain",Penicillin,2 weeks
+U0267,36,Male,73.8,"runny nose, cough, joint pain",Penicillin,2 weeks
+U0268,75,Male,42.0,"dizziness, chest pain, vomiting",Ibuprofen,1 day
+U0269,4,Male,33.2,"joint pain, chest pain, nausea",Penicillin,2 weeks
+U0270,54,Other,74.7,"diarrhea, runny nose",Sulfa,3 days
+U0271,62,Male,86.3,"fatigue, nausea, sore throat",None,1 day
+U0272,21,Female,59.1,"body pain, vomiting",Ibuprofen,2 days
+U0273,41,Other,52.4,"fatigue, headache",Sulfa,2 weeks
+U0274,72,Male,52.3,"cough, nausea",Aspirin,2 days
+U0275,19,Male,33.5,"chest pain, fatigue",Penicillin,2 days
+U0276,42,Other,80.5,joint pain,Penicillin,1 week
+U0277,66,Female,64.9,"sore throat, fever",None,1 week
+U0278,65,Female,97.7,chest pain,Sulfa,1 day
+U0279,7,Female,64.6,"diarrhea, sore throat, nausea",Ibuprofen,1 day
+U0280,14,Female,39.4,"dizziness, vomiting",Aspirin,3 days
+U0281,6,Female,33.6,"body pain, vomiting, runny nose",Sulfa,1 day
+U0282,50,Other,61.5,"nausea, chest pain, diarrhea",Ibuprofen,1 day
+U0283,17,Male,57.6,"runny nose, vomiting",Penicillin,2 days
+U0284,78,Other,58.1,fever,None,2 days
+U0285,43,Female,66.4,chest pain,Ibuprofen,2 days
+U0286,42,Other,52.3,"chest pain, dizziness",Sulfa,2 weeks
+U0287,44,Other,88.0,"sore throat, dizziness, chest pain",Sulfa,1 week
+U0288,3,Female,53.2,fatigue,Ibuprofen,3 days
+U0289,89,Other,31.9,"nausea, diarrhea",Ibuprofen,2 weeks
+U0290,30,Other,33.6,"headache, runny nose",Ibuprofen,1 week
+U0291,19,Other,47.0,"dizziness, cough, body pain",None,1 week
+U0292,41,Female,40.6,"body pain, fatigue, runny nose",Ibuprofen,1 week
+U0293,8,Other,39.7,runny nose,Sulfa,1 week
+U0294,68,Female,52.0,sore throat,Ibuprofen,3 days
+U0295,70,Female,77.3,"diarrhea, joint pain, nausea",Ibuprofen,1 week
+U0296,25,Male,49.5,"body pain, nausea",Sulfa,2 days
+U0297,89,Other,64.2,"vomiting, runny nose",Sulfa,3 days
+U0298,16,Other,77.4,"fatigue, vomiting",Penicillin,3 days
+U0299,6,Female,96.9,vomiting,Aspirin,3 days
+U0300,62,Male,44.1,"nausea, runny nose, joint pain",Penicillin,1 day
+U0301,79,Other,71.1,fever,Ibuprofen,2 days
+U0302,82,Male,33.7,"vomiting, dizziness",Aspirin,1 day
+U0303,88,Male,30.4,"headache, fatigue, diarrhea",Aspirin,1 week
+U0304,84,Male,82.9,"vomiting, nausea",None,1 day
+U0305,84,Other,46.3,"dizziness, fever, headache",Aspirin,2 days
+U0306,5,Female,85.2,dizziness,Sulfa,1 day
+U0307,2,Female,69.8,vomiting,Sulfa,1 week
+U0308,83,Other,66.7,runny nose,Aspirin,3 days
+U0309,25,Male,53.1,"sore throat, diarrhea, nausea",Penicillin,1 day
+U0310,44,Female,69.7,headache,Ibuprofen,1 week
+U0311,55,Other,53.0,"diarrhea, cough",Penicillin,2 days
+U0312,62,Female,95.5,nausea,Aspirin,2 days
+U0313,58,Female,96.8,"chest pain, dizziness",Ibuprofen,1 day
+U0314,34,Other,55.2,fever,None,1 week
+U0315,40,Male,58.4,"dizziness, nausea, cough",Sulfa,3 days
+U0316,79,Male,45.3,sore throat,Penicillin,1 week
+U0317,78,Female,59.1,"sore throat, runny nose, diarrhea",Penicillin,2 days
+U0318,88,Other,91.1,runny nose,Aspirin,2 weeks
+U0319,47,Male,94.2,fever,Ibuprofen,2 weeks
+U0320,26,Other,67.6,vomiting,Ibuprofen,1 week
+U0321,15,Other,44.4,"sore throat, cough, runny nose",Aspirin,1 day
+U0322,59,Male,65.9,"chest pain, fever",Ibuprofen,1 week
+U0323,87,Female,80.6,"nausea, fever",Penicillin,2 weeks
+U0324,10,Male,59.7,"cough, runny nose, fever",None,1 week
+U0325,5,Female,58.6,joint pain,Aspirin,3 days
+U0326,49,Female,90.9,"fatigue, cough",Ibuprofen,2 days
+U0327,84,Female,38.3,"fatigue, runny nose, headache",Penicillin,1 day
+U0328,3,Female,62.4,"runny nose, fatigue, joint pain",Aspirin,2 days
+U0329,32,Female,54.2,"body pain, dizziness",None,1 day
+U0330,85,Female,73.0,body pain,Penicillin,1 day
+U0331,13,Other,32.4,"diarrhea, dizziness, fever",Penicillin,1 day
+U0332,52,Female,46.4,joint pain,None,2 days
+U0333,65,Female,46.4,"chest pain, vomiting, joint pain",Ibuprofen,3 days
+U0334,31,Female,91.3,"runny nose, body pain, fatigue",Sulfa,3 days
+U0335,8,Other,96.4,"headache, diarrhea, dizziness",Aspirin,2 weeks
+U0336,64,Male,98.1,"diarrhea, fatigue, runny nose",Sulfa,1 week
+U0337,53,Male,51.0,joint pain,Ibuprofen,1 week
+U0338,31,Male,51.1,"headache, sore throat, fever",Ibuprofen,1 week
+U0339,54,Other,67.1,"body pain, nausea",Penicillin,3 days
+U0340,83,Male,94.6,"cough, runny nose",Penicillin,1 day
+U0341,35,Female,77.2,"fever, cough, body pain",Ibuprofen,2 weeks
+U0342,28,Female,44.6,"nausea, fever",Penicillin,2 days
+U0343,16,Other,100.0,"body pain, dizziness",Ibuprofen,2 days
+U0344,51,Male,68.6,"fatigue, sore throat",Ibuprofen,3 days
+U0345,40,Female,55.2,"sore throat, cough",Aspirin,3 days
+U0346,27,Female,51.9,chest pain,Penicillin,2 days
+U0347,3,Female,68.7,"chest pain, dizziness, fatigue",Sulfa,2 days
+U0348,26,Female,46.1,"body pain, sore throat, runny nose",Sulfa,3 days
+U0349,63,Other,74.9,"sore throat, headache",Sulfa,2 days
+U0350,18,Other,68.3,runny nose,None,2 weeks
+U0351,5,Male,96.2,"fever, joint pain, fatigue",Penicillin,2 days
+U0352,9,Other,40.6,runny nose,Aspirin,3 days
+U0353,8,Other,74.6,"sore throat, diarrhea, joint pain",None,1 day
+U0354,69,Other,58.8,runny nose,Sulfa,2 weeks
+U0355,37,Male,65.2,"diarrhea, fatigue, headache",None,1 day
+U0356,68,Male,46.9,"runny nose, nausea, vomiting",Sulfa,1 week
+U0357,11,Female,97.2,"chest pain, body pain",Penicillin,3 days
+U0358,88,Male,75.8,"joint pain, fever, cough",Aspirin,1 week
+U0359,49,Other,63.3,"fever, dizziness, headache",None,1 week
+U0360,56,Other,84.9,"cough, runny nose, fever",Penicillin,2 days
+U0361,89,Other,63.3,cough,Sulfa,2 weeks
+U0362,73,Other,32.3,"fever, body pain",Ibuprofen,2 days
+U0363,51,Male,50.9,"body pain, chest pain, fatigue",Ibuprofen,3 days
+U0364,50,Other,39.8,"dizziness, cough, runny nose",Sulfa,1 day
+U0365,13,Female,46.3,vomiting,Ibuprofen,2 weeks
+U0366,77,Female,97.8,"fever, diarrhea",Sulfa,1 week
+U0367,63,Male,54.9,"fatigue, headache",Ibuprofen,1 week
+U0368,11,Other,50.7,dizziness,None,1 day
+U0369,35,Male,56.6,"headache, dizziness, fatigue",Sulfa,3 days
+U0370,14,Male,30.4,"sore throat, vomiting",Sulfa,1 day
+U0371,17,Male,43.1,"runny nose, joint pain",Ibuprofen,1 week
+U0372,14,Male,36.3,"cough, chest pain, dizziness",Sulfa,1 week
+U0373,2,Female,59.0,dizziness,Ibuprofen,2 days
+U0374,74,Other,41.9,"headache, joint pain",Sulfa,3 days
+U0375,35,Female,40.2,fatigue,Sulfa,1 week
+U0376,39,Female,84.8,"nausea, body pain",Aspirin,2 weeks
+U0377,79,Male,62.1,nausea,None,1 week
+U0378,43,Other,56.6,"sore throat, vomiting",Aspirin,2 weeks
+U0379,18,Female,52.4,"body pain, sore throat, vomiting",Penicillin,1 week
+U0380,41,Female,81.4,"sore throat, chest pain, body pain",Sulfa,1 week
+U0381,36,Female,55.6,"body pain, chest pain, runny nose",Penicillin,2 weeks
+U0382,4,Other,62.3,"body pain, sore throat, nausea",None,1 week
+U0383,87,Female,39.7,"body pain, nausea",Penicillin,1 week
+U0384,49,Male,61.4,"sore throat, chest pain, fatigue",Ibuprofen,2 weeks
+U0385,89,Female,68.1,"dizziness, runny nose",Ibuprofen,1 day
+U0386,14,Male,76.0,"headache, diarrhea",Ibuprofen,1 day
+U0387,73,Other,77.4,"joint pain, vomiting",Aspirin,1 day
+U0388,2,Male,48.1,"dizziness, runny nose, joint pain",Ibuprofen,2 weeks
+U0389,29,Female,56.2,"joint pain, diarrhea",Ibuprofen,2 weeks
+U0390,20,Female,99.8,"cough, nausea",Aspirin,1 day
+U0391,15,Other,39.9,"vomiting, sore throat",Penicillin,2 weeks
+U0392,62,Female,63.3,"dizziness, joint pain",Aspirin,3 days
+U0393,9,Female,33.1,"cough, fever, vomiting",None,2 days
+U0394,32,Other,42.2,vomiting,Ibuprofen,1 week
+U0395,60,Male,85.8,"headache, joint pain, diarrhea",Aspirin,1 week
+U0396,4,Other,73.0,sore throat,Ibuprofen,1 week
+U0397,50,Male,79.3,nausea,None,2 weeks
+U0398,14,Other,43.1,"body pain, sore throat",None,3 days
+U0399,86,Female,66.9,"vomiting, chest pain, fatigue",Ibuprofen,1 week
+U0400,76,Male,54.4,"chest pain, headache",Sulfa,2 weeks
+U0401,76,Male,77.0,"cough, body pain",Sulfa,1 day
+U0402,24,Female,78.5,"fatigue, joint pain, chest pain",Penicillin,2 weeks
+U0403,50,Female,43.0,"runny nose, dizziness, diarrhea",Penicillin,2 weeks
+U0404,22,Female,50.2,vomiting,Aspirin,2 weeks
+U0405,7,Female,96.6,"headache, body pain",Aspirin,2 weeks
+U0406,65,Other,64.6,"sore throat, fatigue, joint pain",Aspirin,2 days
+U0407,11,Other,32.2,nausea,None,3 days
+U0408,29,Other,50.2,"chest pain, dizziness",Aspirin,2 weeks
+U0409,66,Male,70.1,"joint pain, runny nose",Sulfa,2 weeks
+U0410,6,Other,60.9,fatigue,None,2 days
+U0411,39,Male,61.5,"cough, sore throat",None,2 days
+U0412,27,Other,71.2,"dizziness, chest pain",Aspirin,2 days
+U0413,79,Male,84.9,joint pain,None,2 weeks
+U0414,45,Other,49.7,"headache, vomiting, nausea",Sulfa,2 weeks
+U0415,35,Other,99.0,"cough, headache, fatigue",None,3 days
+U0416,84,Male,79.1,body pain,Penicillin,3 days
+U0417,32,Other,57.5,chest pain,Sulfa,1 week
+U0418,49,Female,35.3,fatigue,Ibuprofen,3 days
+U0419,89,Female,61.8,"vomiting, chest pain",None,1 day
+U0420,59,Other,76.5,"cough, runny nose",Aspirin,2 days
+U0421,55,Male,64.6,"nausea, vomiting",Ibuprofen,2 weeks
+U0422,17,Other,89.7,"diarrhea, fever",None,1 day
+U0423,81,Female,31.1,sore throat,Aspirin,1 day
+U0424,55,Male,99.7,diarrhea,Sulfa,2 days
+U0425,36,Male,75.8,"cough, vomiting",Penicillin,1 day
+U0426,51,Other,51.4,"joint pain, body pain, fatigue",None,1 day
+U0427,1,Male,63.4,chest pain,Penicillin,2 weeks
+U0428,88,Female,30.7,"vomiting, cough, fatigue",Penicillin,1 week
+U0429,10,Male,56.8,"joint pain, cough, dizziness",Sulfa,3 days
+U0430,39,Male,56.8,diarrhea,Penicillin,1 day
+U0431,68,Other,30.6,"headache, sore throat, vomiting",Penicillin,2 days
+U0432,53,Other,78.1,cough,None,2 days
+U0433,16,Other,81.1,"fatigue, vomiting",Penicillin,2 days
+U0434,36,Other,35.9,"chest pain, joint pain, dizziness",Sulfa,1 day
+U0435,85,Female,44.4,"runny nose, body pain, fatigue",Sulfa,1 day
+U0436,31,Female,57.0,sore throat,Ibuprofen,1 day
+U0437,68,Male,99.1,"headache, fatigue",Ibuprofen,1 week
+U0438,47,Other,77.8,"joint pain, cough",None,2 weeks
+U0439,9,Male,48.4,fever,Aspirin,2 weeks
+U0440,37,Other,79.9,"fatigue, dizziness",Aspirin,1 day
+U0441,82,Other,67.6,nausea,None,3 days
+U0442,11,Other,94.5,runny nose,Sulfa,1 week
+U0443,76,Other,83.4,"diarrhea, joint pain, cough",Sulfa,1 week
+U0444,31,Male,47.1,"cough, sore throat",Ibuprofen,2 weeks
+U0445,8,Female,76.6,"dizziness, headache, cough",None,2 days
+U0446,90,Male,41.5,"runny nose, joint pain",Sulfa,2 days
+U0447,48,Male,82.5,"dizziness, cough",None,3 days
+U0448,55,Female,66.7,"dizziness, chest pain",None,1 week
+U0449,59,Other,55.2,"chest pain, headache",Sulfa,2 days
+U0450,33,Male,92.6,"dizziness, cough, body pain",Ibuprofen,1 day
+U0451,6,Male,47.1,"vomiting, fatigue",Penicillin,2 days
+U0452,5,Other,86.2,"dizziness, diarrhea, fatigue",Penicillin,3 days
+U0453,32,Female,94.1,"nausea, cough",Ibuprofen,3 days
+U0454,16,Other,77.1,headache,Penicillin,2 weeks
+U0455,6,Female,34.8,"nausea, joint pain",Sulfa,1 day
+U0456,71,Female,30.6,nausea,Ibuprofen,3 days
+U0457,80,Male,62.5,"sore throat, body pain, runny nose",Penicillin,2 days
+U0458,1,Female,31.7,"vomiting, diarrhea, fever",Sulfa,1 day
+U0459,85,Female,89.4,"nausea, cough, body pain",Ibuprofen,2 days
+U0460,54,Female,97.3,dizziness,Sulfa,1 day
+U0461,6,Male,92.8,"fatigue, dizziness, vomiting",Aspirin,1 day
+U0462,75,Male,65.4,"fatigue, cough, chest pain",Ibuprofen,1 day
+U0463,56,Other,97.5,nausea,Sulfa,3 days
+U0464,51,Other,88.2,"vomiting, sore throat",Sulfa,2 days
+U0465,10,Male,39.5,"cough, headache, joint pain",Penicillin,1 week
+U0466,60,Female,58.5,"vomiting, body pain, sore throat",Sulfa,1 week
+U0467,34,Male,36.3,"nausea, dizziness, chest pain",None,2 days
+U0468,42,Male,36.4,vomiting,Aspirin,2 weeks
+U0469,7,Other,50.9,fever,Aspirin,1 week
+U0470,72,Other,68.5,sore throat,None,2 days
+U0471,16,Male,34.3,headache,Penicillin,1 week
+U0472,48,Other,74.1,"cough, chest pain, dizziness",Sulfa,1 day
+U0473,3,Male,43.8,"sore throat, headache, cough",Sulfa,1 day
+U0474,6,Female,33.5,"fatigue, dizziness, joint pain",Aspirin,1 day
+U0475,49,Other,59.9,"body pain, headache",Sulfa,3 days
+U0476,58,Male,32.4,"chest pain, body pain, diarrhea",Sulfa,1 week
+U0477,53,Other,63.5,nausea,Aspirin,2 days
+U0478,54,Male,75.0,"body pain, diarrhea, runny nose",None,1 week
+U0479,46,Female,68.1,"vomiting, chest pain",Ibuprofen,3 days
+U0480,50,Female,42.6,"chest pain, body pain",None,3 days
+U0481,8,Female,67.1,"body pain, headache, cough",Penicillin,2 days
+U0482,35,Other,87.1,"fever, body pain, chest pain",Aspirin,3 days
+U0483,23,Male,46.6,"joint pain, dizziness",Sulfa,2 weeks
+U0484,4,Other,79.0,"chest pain, headache, joint pain",Penicillin,1 week
+U0485,70,Female,42.3,cough,None,2 days
+U0486,78,Male,31.4,"fever, vomiting",Ibuprofen,2 days
+U0487,17,Female,80.2,"fever, joint pain",Penicillin,2 weeks
+U0488,19,Male,89.3,"cough, vomiting",Aspirin,2 weeks
+U0489,13,Female,51.1,headache,Aspirin,1 week
+U0490,84,Female,42.2,"dizziness, chest pain, vomiting",Penicillin,2 weeks
+U0491,23,Female,51.5,"nausea, headache, dizziness",None,2 weeks
+U0492,51,Other,32.3,"vomiting, chest pain, body pain",Ibuprofen,1 day
+U0493,64,Male,53.2,body pain,Sulfa,3 days
+U0494,22,Other,92.0,dizziness,Sulfa,1 week
+U0495,2,Female,44.7,"cough, vomiting, nausea",None,1 day
+U0496,7,Female,60.7,"headache, fatigue",Aspirin,1 week
+U0497,45,Other,56.3,"joint pain, chest pain",Penicillin,2 days
+U0498,58,Male,85.9,nausea,None,3 days
+U0499,34,Male,35.2,fatigue,Penicillin,1 day
+U0500,71,Male,53.7,"sore throat, dizziness, fever",Aspirin,2 days
+U0501,78,Female,41.0,vomiting,Penicillin,2 days
+U0502,53,Other,68.8,"runny nose, nausea, diarrhea",Sulfa,3 days
+U0503,31,Male,33.5,"runny nose, sore throat, headache",None,3 days
+U0504,1,Female,36.1,"diarrhea, chest pain, sore throat",Penicillin,1 day
+U0505,4,Male,42.0,"cough, sore throat",None,3 days
+U0506,51,Female,64.2,"nausea, cough, diarrhea",Ibuprofen,1 week
+U0507,24,Female,92.0,"headache, sore throat",None,3 days
+U0508,57,Female,48.4,"chest pain, fever",Penicillin,1 day
+U0509,11,Other,54.1,"fatigue, chest pain, body pain",Ibuprofen,1 day
+U0510,50,Other,59.3,"diarrhea, sore throat, chest pain",Penicillin,1 week
+U0511,39,Male,57.6,"fever, runny nose, chest pain",Ibuprofen,2 weeks
+U0512,87,Other,40.3,"headache, joint pain",Penicillin,2 days
+U0513,17,Male,59.6,"fatigue, body pain, diarrhea",Penicillin,2 weeks
+U0514,34,Female,93.8,cough,Aspirin,2 weeks
+U0515,51,Other,52.8,"runny nose, sore throat",None,2 weeks
+U0516,76,Other,84.7,fatigue,Penicillin,2 days
+U0517,73,Other,70.8,cough,Ibuprofen,1 day
+U0518,37,Other,91.6,"nausea, fatigue",Aspirin,2 weeks
+U0519,78,Female,32.6,"fatigue, headache",Ibuprofen,2 weeks
+U0520,88,Other,58.1,"vomiting, dizziness",Penicillin,1 day
+U0521,61,Female,92.8,vomiting,Sulfa,3 days
+U0522,36,Female,90.1,"cough, body pain, headache",Sulfa,1 week
+U0523,42,Female,81.0,"diarrhea, cough, body pain",Aspirin,2 days
+U0524,53,Other,63.9,"vomiting, fever, runny nose",Penicillin,1 day
+U0525,40,Other,65.5,joint pain,Ibuprofen,2 weeks
+U0526,4,Male,43.5,fever,Penicillin,1 day
+U0527,59,Male,94.3,"body pain, nausea, vomiting",Aspirin,2 weeks
+U0528,51,Other,94.6,"fever, body pain, vomiting",Aspirin,2 weeks
+U0529,58,Male,97.2,"chest pain, runny nose",Sulfa,3 days
+U0530,21,Female,82.4,"cough, nausea, fever",Aspirin,1 day
+U0531,21,Other,84.6,body pain,Penicillin,2 days
+U0532,35,Other,58.7,joint pain,None,1 week
+U0533,17,Other,42.1,body pain,Sulfa,2 weeks
+U0534,40,Other,97.7,"nausea, fatigue, dizziness",Sulfa,1 week
+U0535,33,Male,62.7,"runny nose, chest pain, fatigue",Ibuprofen,1 day
+U0536,1,Other,100.0,"runny nose, diarrhea",Ibuprofen,2 weeks
+U0537,37,Female,77.9,"cough, vomiting",Sulfa,3 days
+U0538,36,Female,75.9,"nausea, body pain, headache",Ibuprofen,2 days
+U0539,8,Other,58.3,"diarrhea, headache",None,1 week
+U0540,38,Female,93.5,"fatigue, dizziness",None,2 weeks
+U0541,74,Male,54.0,"body pain, diarrhea, runny nose",Aspirin,3 days
+U0542,65,Female,89.2,"runny nose, headache, nausea",None,1 week
+U0543,17,Other,48.1,"joint pain, headache, diarrhea",Sulfa,1 day
+U0544,29,Female,45.6,"fatigue, vomiting",Sulfa,3 days
+U0545,75,Female,62.5,sore throat,None,2 weeks
+U0546,75,Other,35.0,runny nose,None,1 week
+U0547,68,Female,58.9,headache,Penicillin,3 days
+U0548,53,Other,92.5,"headache, vomiting",Penicillin,1 day
+U0549,63,Female,74.2,vomiting,None,1 day
+U0550,58,Female,44.7,chest pain,Penicillin,1 week
+U0551,12,Male,73.0,"fatigue, joint pain, dizziness",Aspirin,1 week
+U0552,1,Male,67.4,"vomiting, fever, joint pain",Ibuprofen,2 days
+U0553,3,Other,30.3,"body pain, joint pain, vomiting",Sulfa,2 days
+U0554,14,Female,65.2,"headache, cough",None,3 days
+U0555,38,Female,80.9,"runny nose, vomiting, fatigue",Penicillin,3 days
+U0556,63,Female,82.5,joint pain,Aspirin,1 day
+U0557,30,Male,80.9,body pain,None,2 weeks
+U0558,65,Male,38.6,"diarrhea, fever, fatigue",Sulfa,2 weeks
+U0559,80,Male,71.6,diarrhea,None,1 day
+U0560,7,Other,38.1,"fatigue, cough",Ibuprofen,3 days
+U0561,61,Other,40.7,"diarrhea, joint pain, fever",Sulfa,1 week
+U0562,85,Male,76.4,"chest pain, joint pain",Penicillin,1 week
+U0563,14,Other,80.3,nausea,None,1 day
+U0564,64,Male,72.6,"runny nose, body pain",Sulfa,1 week
+U0565,38,Male,32.8,"body pain, dizziness",Aspirin,3 days
+U0566,31,Male,30.9,cough,Ibuprofen,1 week
+U0567,20,Male,84.6,dizziness,None,3 days
+U0568,83,Male,62.0,"nausea, sore throat",None,1 day
+U0569,23,Male,89.7,"joint pain, diarrhea",Sulfa,1 week
+U0570,15,Male,89.6,fever,Penicillin,2 days
+U0571,43,Female,92.6,"nausea, dizziness, cough",Sulfa,3 days
+U0572,24,Male,58.1,"nausea, fatigue",Aspirin,1 week
+U0573,84,Male,37.9,"dizziness, fever, headache",None,1 week
+U0574,76,Female,86.2,"sore throat, headache, chest pain",Aspirin,3 days
+U0575,79,Male,90.4,"headache, sore throat, dizziness",None,1 week
+U0576,57,Male,34.4,"vomiting, fever, diarrhea",Ibuprofen,2 weeks
+U0577,73,Male,98.5,"vomiting, runny nose, dizziness",Ibuprofen,1 day
+U0578,56,Other,80.9,"vomiting, diarrhea",Aspirin,2 days
+U0579,72,Other,33.8,"headache, runny nose, sore throat",Aspirin,2 days
+U0580,10,Female,52.4,"nausea, fever",Ibuprofen,2 days
+U0581,71,Other,56.5,cough,Aspirin,1 week
+U0582,74,Female,36.2,"sore throat, vomiting",None,1 week
+U0583,84,Male,37.2,"fever, runny nose",Ibuprofen,1 day
+U0584,12,Other,97.4,"nausea, runny nose, dizziness",Penicillin,1 week
+U0585,44,Female,87.8,sore throat,Sulfa,2 weeks
+U0586,80,Other,63.1,"vomiting, dizziness, sore throat",None,1 day
+U0587,85,Male,30.2,"diarrhea, nausea",Ibuprofen,2 weeks
+U0588,48,Other,37.4,sore throat,Penicillin,1 week
+U0589,14,Female,72.8,cough,Aspirin,2 days
+U0590,59,Male,80.2,joint pain,Aspirin,1 day
+U0591,82,Other,71.2,"sore throat, diarrhea",Ibuprofen,2 weeks
+U0592,18,Female,30.3,"fever, runny nose, fatigue",Ibuprofen,1 week
+U0593,66,Male,78.4,dizziness,Penicillin,1 day
+U0594,50,Other,72.0,"runny nose, fatigue",Aspirin,2 weeks
+U0595,89,Male,49.2,"nausea, sore throat",Penicillin,2 days
+U0596,53,Other,79.0,"runny nose, nausea, joint pain",Sulfa,2 weeks
+U0597,81,Male,44.1,"dizziness, nausea, diarrhea",Sulfa,2 days
+U0598,84,Male,65.3,"diarrhea, vomiting, cough",Sulfa,2 weeks
+U0599,62,Other,69.9,"dizziness, fatigue, diarrhea",Ibuprofen,3 days
+U0600,55,Male,66.6,fatigue,Penicillin,1 day
+U0601,86,Male,44.0,nausea,Sulfa,2 days
+U0602,8,Other,84.9,joint pain,Ibuprofen,1 day
+U0603,46,Female,37.2,"dizziness, runny nose, body pain",Ibuprofen,1 week
+U0604,31,Other,84.9,"nausea, dizziness, diarrhea",None,1 week
+U0605,50,Female,97.0,"vomiting, runny nose, fever",None,3 days
+U0606,26,Other,90.8,"body pain, diarrhea",Sulfa,2 weeks
+U0607,70,Other,72.2,"body pain, nausea, sore throat",Penicillin,1 day
+U0608,24,Male,81.5,fatigue,None,1 week
+U0609,36,Other,48.5,chest pain,Sulfa,1 day
+U0610,43,Female,79.7,fever,Penicillin,3 days
+U0611,77,Male,84.2,"chest pain, diarrhea, nausea",Aspirin,2 weeks
+U0612,71,Female,35.1,"vomiting, runny nose, body pain",Penicillin,2 weeks
+U0613,9,Other,41.2,"runny nose, fatigue, cough",Sulfa,2 days
+U0614,28,Other,53.2,"nausea, body pain",Ibuprofen,2 weeks
+U0615,61,Other,87.7,"fever, cough, diarrhea",Sulfa,1 week
+U0616,31,Other,73.0,"body pain, fever, diarrhea",Sulfa,1 week
+U0617,15,Female,48.0,"nausea, fever, runny nose",Sulfa,2 weeks
+U0618,66,Female,64.1,"diarrhea, body pain",Sulfa,2 weeks
+U0619,11,Male,41.7,"runny nose, fever, diarrhea",None,2 days
+U0620,86,Other,84.2,"fatigue, cough, body pain",Ibuprofen,1 week
+U0621,83,Male,82.3,fever,Aspirin,3 days
+U0622,5,Male,35.1,joint pain,Sulfa,2 weeks
+U0623,10,Other,87.5,"fatigue, joint pain",Aspirin,1 week
+U0624,56,Female,31.2,"cough, runny nose, fever",Ibuprofen,1 day
+U0625,75,Male,79.1,vomiting,Ibuprofen,1 day
+U0626,38,Other,51.1,nausea,Aspirin,1 week
+U0627,51,Other,32.2,runny nose,Penicillin,2 days
+U0628,51,Other,50.6,"headache, nausea, diarrhea",Sulfa,1 day
+U0629,71,Other,39.9,fever,Ibuprofen,2 weeks
+U0630,51,Other,68.3,nausea,Penicillin,3 days
+U0631,28,Female,93.4,"headache, joint pain, dizziness",Penicillin,2 weeks
+U0632,33,Male,38.0,"joint pain, chest pain, fever",Ibuprofen,1 week
+U0633,83,Other,35.1,"cough, nausea, joint pain",Penicillin,2 weeks
+U0634,63,Female,55.0,"diarrhea, body pain, cough",Sulfa,2 weeks
+U0635,9,Male,52.2,"vomiting, chest pain",Sulfa,2 weeks
+U0636,20,Other,69.7,"fatigue, headache",None,3 days
+U0637,32,Male,79.9,"fatigue, nausea, vomiting",Penicillin,3 days
+U0638,62,Female,61.2,"sore throat, runny nose",None,2 days
+U0639,83,Other,35.7,"headache, runny nose",Penicillin,3 days
+U0640,81,Male,80.9,runny nose,None,2 weeks
+U0641,75,Female,83.8,fever,Ibuprofen,3 days
+U0642,70,Other,63.0,vomiting,Aspirin,2 days
+U0643,76,Other,90.0,sore throat,Ibuprofen,2 weeks
+U0644,12,Female,55.5,diarrhea,Penicillin,2 weeks
+U0645,88,Male,83.0,sore throat,Penicillin,2 days
+U0646,73,Other,76.2,dizziness,Aspirin,3 days
+U0647,6,Male,83.3,cough,Sulfa,3 days
+U0648,30,Male,76.8,"joint pain, vomiting, fatigue",Aspirin,1 week
+U0649,6,Male,98.6,"cough, dizziness",Ibuprofen,3 days
+U0650,34,Other,68.1,fatigue,Aspirin,3 days
+U0651,76,Other,92.9,runny nose,Sulfa,1 week
+U0652,29,Other,58.4,"sore throat, joint pain",Ibuprofen,1 day
+U0653,65,Male,60.8,cough,Ibuprofen,3 days
+U0654,28,Male,43.1,"chest pain, dizziness",None,2 days
+U0655,54,Female,80.4,"diarrhea, sore throat",Aspirin,2 days
+U0656,76,Male,75.3,"fever, body pain",None,2 days
+U0657,74,Other,41.3,"runny nose, fever, chest pain",Penicillin,1 day
+U0658,22,Female,94.6,"fatigue, chest pain, dizziness",None,3 days
+U0659,11,Male,61.4,"sore throat, headache",Penicillin,1 week
+U0660,77,Male,85.6,chest pain,Ibuprofen,3 days
+U0661,22,Other,78.0,"chest pain, joint pain",None,2 days
+U0662,49,Female,39.3,body pain,Ibuprofen,2 weeks
+U0663,88,Female,87.9,"cough, headache, sore throat",Ibuprofen,2 weeks
+U0664,5,Other,65.2,cough,Aspirin,2 days
+U0665,78,Other,87.9,"diarrhea, fatigue, runny nose",Aspirin,3 days
+U0666,6,Other,67.1,joint pain,Aspirin,1 week
+U0667,45,Other,86.3,"chest pain, cough, fatigue",Penicillin,3 days
+U0668,62,Male,93.7,nausea,Ibuprofen,2 weeks
+U0669,53,Female,43.2,"dizziness, fever, chest pain",Ibuprofen,1 day
+U0670,67,Male,56.3,dizziness,Sulfa,1 week
+U0671,47,Male,40.8,"chest pain, nausea, dizziness",Ibuprofen,1 week
+U0672,73,Female,72.8,"fatigue, body pain, joint pain",Ibuprofen,2 weeks
+U0673,62,Male,55.9,"sore throat, nausea, dizziness",Ibuprofen,3 days
+U0674,51,Other,39.7,"cough, dizziness, body pain",Aspirin,2 days
+U0675,13,Male,65.6,"joint pain, runny nose",Ibuprofen,1 day
+U0676,21,Female,97.5,joint pain,None,2 days
+U0677,61,Other,60.5,nausea,Penicillin,3 days
+U0678,11,Other,32.6,"fatigue, chest pain",Ibuprofen,3 days
+U0679,77,Male,96.2,diarrhea,Aspirin,1 week
+U0680,2,Male,89.5,"nausea, body pain, fever",Ibuprofen,2 weeks
+U0681,67,Other,46.2,diarrhea,None,3 days
+U0682,31,Other,30.0,cough,Sulfa,1 week
+U0683,46,Other,57.7,"body pain, runny nose, fever",None,1 day
+U0684,71,Female,80.8,"chest pain, vomiting, dizziness",Sulfa,2 days
+U0685,78,Male,61.8,"chest pain, fever",Sulfa,2 days
+U0686,53,Other,37.5,runny nose,Sulfa,3 days
+U0687,15,Other,97.0,"joint pain, chest pain, nausea",Aspirin,1 week
+U0688,73,Female,83.9,"joint pain, sore throat",Aspirin,2 weeks
+U0689,4,Female,38.1,fatigue,Penicillin,2 days
+U0690,41,Female,96.9,"runny nose, fever, nausea",Penicillin,3 days
+U0691,12,Female,77.2,"cough, runny nose",Penicillin,1 week
+U0692,41,Female,45.3,"nausea, headache, diarrhea",Penicillin,1 week
+U0693,26,Male,81.5,"body pain, joint pain",Penicillin,2 days
+U0694,80,Female,40.9,cough,None,1 week
+U0695,79,Male,83.5,"fever, sore throat, vomiting",Ibuprofen,3 days
+U0696,64,Other,90.8,"headache, runny nose",Sulfa,1 week
+U0697,29,Other,39.0,"joint pain, fatigue, sore throat",Ibuprofen,1 day
+U0698,65,Female,57.6,"joint pain, headache, sore throat",None,2 weeks
+U0699,59,Female,78.2,diarrhea,Penicillin,1 week
+U0700,75,Male,52.8,"nausea, headache, runny nose",Sulfa,2 days
+U0701,35,Female,97.1,"vomiting, headache",Aspirin,1 week
+U0702,27,Female,79.0,"vomiting, fatigue",Sulfa,1 week
+U0703,24,Other,39.2,"diarrhea, body pain, cough",Sulfa,2 days
+U0704,72,Female,89.9,headache,Penicillin,1 week
+U0705,2,Male,59.5,diarrhea,Ibuprofen,2 weeks
+U0706,41,Female,51.0,"chest pain, fever, fatigue",None,2 days
+U0707,8,Male,87.0,"diarrhea, cough",Aspirin,3 days
+U0708,34,Female,55.2,"joint pain, nausea, vomiting",None,1 week
+U0709,16,Female,90.7,"body pain, chest pain, dizziness",Ibuprofen,2 days
+U0710,37,Female,52.8,"sore throat, dizziness, joint pain",None,1 week
+U0711,79,Female,62.5,headache,Sulfa,1 week
+U0712,81,Other,70.0,cough,Penicillin,3 days
+U0713,30,Female,52.2,"dizziness, nausea",Ibuprofen,1 week
+U0714,35,Female,84.7,"dizziness, chest pain",Ibuprofen,1 week
+U0715,53,Male,42.9,headache,Penicillin,3 days
+U0716,90,Other,35.6,fatigue,None,1 day
+U0717,9,Female,68.4,joint pain,Aspirin,2 weeks
+U0718,11,Male,48.4,cough,Aspirin,3 days
+U0719,30,Male,81.6,"diarrhea, headache",Penicillin,2 weeks
+U0720,22,Male,32.5,"vomiting, sore throat",Aspirin,2 weeks
+U0721,35,Other,61.1,"runny nose, headache, chest pain",Ibuprofen,1 week
+U0722,81,Other,74.5,"fatigue, runny nose, diarrhea",Ibuprofen,3 days
+U0723,45,Female,67.8,sore throat,Sulfa,3 days
+U0724,53,Female,40.9,fever,Ibuprofen,2 days
+U0725,45,Female,62.8,dizziness,Aspirin,1 week
+U0726,39,Male,83.6,"chest pain, body pain",None,2 weeks
+U0727,48,Male,58.8,"fatigue, joint pain, body pain",Penicillin,1 week
+U0728,49,Male,48.4,"diarrhea, body pain",Ibuprofen,2 weeks
+U0729,89,Other,49.0,"dizziness, runny nose, nausea",Aspirin,2 days
+U0730,9,Male,39.6,diarrhea,Aspirin,2 weeks
+U0731,58,Female,79.0,"body pain, vomiting",None,2 days
+U0732,7,Other,31.5,nausea,Sulfa,2 days
+U0733,57,Other,30.6,headache,None,1 week
+U0734,28,Female,59.4,"vomiting, sore throat",None,3 days
+U0735,11,Male,33.9,"cough, runny nose",Aspirin,2 days
+U0736,25,Female,87.2,cough,Penicillin,1 week
+U0737,57,Male,81.6,body pain,Aspirin,1 day
+U0738,67,Other,98.7,"fatigue, diarrhea",Sulfa,3 days
+U0739,21,Other,81.0,"runny nose, joint pain, cough",Sulfa,1 week
+U0740,82,Female,43.9,diarrhea,Penicillin,1 day
+U0741,31,Other,60.4,headache,Sulfa,2 weeks
+U0742,16,Female,85.2,fever,Ibuprofen,1 week
+U0743,89,Other,40.8,body pain,Penicillin,1 week
+U0744,12,Other,73.3,"fever, joint pain, vomiting",Penicillin,2 weeks
+U0745,14,Male,64.1,"runny nose, diarrhea",Sulfa,1 week
+U0746,25,Male,78.2,"dizziness, headache",Sulfa,1 day
+U0747,63,Other,60.6,"runny nose, dizziness",Aspirin,2 days
+U0748,73,Male,68.1,"dizziness, sore throat",Sulfa,2 weeks
+U0749,71,Male,34.8,sore throat,Sulfa,3 days
+U0750,70,Female,61.8,"runny nose, fatigue, headache",None,2 weeks
+U0751,47,Other,46.7,"cough, diarrhea, runny nose",Aspirin,2 days
+U0752,68,Other,64.8,"headache, chest pain, nausea",Sulfa,1 week
+U0753,83,Female,37.7,"diarrhea, cough, fever",Penicillin,2 days
+U0754,5,Male,37.5,cough,None,2 weeks
+U0755,83,Female,76.1,"chest pain, dizziness, joint pain",Sulfa,1 day
+U0756,47,Male,72.4,fever,Penicillin,1 week
+U0757,11,Female,86.1,vomiting,Ibuprofen,1 week
+U0758,48,Other,34.1,"nausea, runny nose, fever",None,3 days
+U0759,10,Male,97.2,cough,Penicillin,2 weeks
+U0760,50,Male,43.5,"body pain, chest pain, diarrhea",Penicillin,2 weeks
+U0761,72,Female,82.2,"chest pain, vomiting, diarrhea",Aspirin,1 week
+U0762,14,Male,85.5,"fatigue, runny nose, vomiting",Penicillin,2 weeks
+U0763,77,Female,95.3,"runny nose, vomiting",Sulfa,1 week
+U0764,82,Female,87.8,"chest pain, body pain",Ibuprofen,2 weeks
+U0765,28,Female,83.6,"nausea, vomiting, sore throat",Aspirin,1 week
+U0766,1,Other,32.4,"chest pain, fever",Ibuprofen,2 days
+U0767,39,Male,51.0,body pain,Sulfa,1 day
+U0768,89,Female,94.3,"runny nose, chest pain, dizziness",Penicillin,1 day
+U0769,5,Female,54.9,nausea,Sulfa,2 weeks
+U0770,32,Male,47.9,"cough, chest pain",Aspirin,2 weeks
+U0771,28,Other,35.4,"joint pain, sore throat",Penicillin,1 week
+U0772,89,Other,70.3,chest pain,Sulfa,1 day
+U0773,74,Female,35.5,joint pain,Sulfa,3 days
+U0774,56,Female,95.1,joint pain,Penicillin,2 weeks
+U0775,2,Other,84.4,"fever, nausea",Ibuprofen,1 day
+U0776,41,Other,69.5,"runny nose, dizziness",Penicillin,2 days
+U0777,7,Other,81.2,"sore throat, chest pain",Ibuprofen,2 weeks
+U0778,12,Male,60.2,"headache, joint pain",Sulfa,1 day
+U0779,61,Other,82.2,"fatigue, nausea, cough",Aspirin,2 weeks
+U0780,56,Other,39.1,sore throat,Ibuprofen,2 days
+U0781,63,Female,75.7,runny nose,Ibuprofen,2 weeks
+U0782,32,Male,35.0,"vomiting, diarrhea",Ibuprofen,1 day
+U0783,15,Other,59.0,"vomiting, body pain",Sulfa,3 days
+U0784,77,Other,31.7,"headache, vomiting",Ibuprofen,1 week
+U0785,80,Male,60.8,body pain,Sulfa,2 days
+U0786,11,Male,81.8,chest pain,Penicillin,3 days
+U0787,2,Female,78.6,nausea,Aspirin,1 week
+U0788,3,Female,44.6,"body pain, joint pain, runny nose",Ibuprofen,3 days
+U0789,71,Female,73.6,dizziness,None,1 week
+U0790,75,Other,66.9,"headache, fever",Sulfa,2 days
+U0791,90,Other,49.0,"diarrhea, fever",None,1 week
+U0792,85,Female,76.4,"vomiting, cough, fever",Sulfa,1 week
+U0793,30,Female,65.6,"cough, vomiting, sore throat",Ibuprofen,2 weeks
+U0794,12,Male,43.9,"runny nose, dizziness",None,1 day
+U0795,32,Other,51.3,"fatigue, dizziness",Penicillin,1 day
+U0796,45,Other,54.6,"nausea, body pain, runny nose",Sulfa,1 day
+U0797,81,Female,91.5,runny nose,Sulfa,2 days
+U0798,20,Female,92.8,"headache, cough, fatigue",Ibuprofen,2 weeks
+U0799,81,Other,45.9,chest pain,Penicillin,1 week
+U0800,40,Other,53.0,"headache, body pain, diarrhea",Penicillin,2 weeks
+U0801,70,Other,86.0,nausea,Ibuprofen,2 days
+U0802,56,Male,75.9,"headache, vomiting, cough",Ibuprofen,2 weeks
+U0803,16,Male,52.2,dizziness,None,3 days
+U0804,53,Female,51.2,"diarrhea, dizziness, nausea",Penicillin,2 days
+U0805,14,Male,42.9,"chest pain, nausea, joint pain",Ibuprofen,2 weeks
+U0806,30,Other,46.3,"fever, vomiting, cough",Aspirin,2 days
+U0807,65,Other,62.8,"vomiting, headache, fatigue",Aspirin,1 week
+U0808,18,Male,43.5,fatigue,None,3 days
+U0809,53,Male,82.0,joint pain,Penicillin,1 day
+U0810,23,Female,90.7,"dizziness, vomiting",Aspirin,2 days
+U0811,55,Female,84.3,"dizziness, fatigue, vomiting",Aspirin,2 weeks
+U0812,74,Other,67.5,"dizziness, fever, runny nose",None,1 week
+U0813,59,Male,91.4,runny nose,Ibuprofen,1 week
+U0814,6,Other,57.1,"fever, body pain, nausea",Aspirin,1 week
+U0815,39,Female,62.3,"nausea, chest pain",None,2 weeks
+U0816,19,Female,88.1,"cough, dizziness",Ibuprofen,1 day
+U0817,24,Other,95.6,"runny nose, headache, fatigue",Aspirin,3 days
+U0818,58,Male,42.5,"dizziness, body pain, sore throat",None,3 days
+U0819,42,Other,75.4,"joint pain, headache, cough",None,1 day
+U0820,58,Other,55.4,"dizziness, fatigue, runny nose",Ibuprofen,2 days
+U0821,49,Other,56.6,vomiting,Ibuprofen,2 days
+U0822,21,Male,42.5,"fever, fatigue, nausea",Sulfa,1 week
+U0823,37,Other,42.6,body pain,None,2 weeks
+U0824,33,Male,62.1,"runny nose, fever",Ibuprofen,1 week
+U0825,31,Male,71.2,"sore throat, fatigue",Aspirin,1 day
+U0826,77,Other,30.5,"nausea, chest pain, diarrhea",Ibuprofen,2 days
+U0827,7,Male,40.4,"vomiting, fever, headache",None,2 weeks
+U0828,78,Female,53.2,fever,None,1 week
+U0829,23,Male,77.0,"diarrhea, dizziness, chest pain",Ibuprofen,2 weeks
+U0830,23,Female,82.5,"fever, cough",Sulfa,3 days
+U0831,48,Female,87.4,"runny nose, cough",Sulfa,1 week
+U0832,18,Male,78.6,"vomiting, runny nose",Aspirin,2 weeks
+U0833,27,Other,44.6,cough,Ibuprofen,2 weeks
+U0834,12,Female,80.7,"joint pain, dizziness, nausea",Aspirin,2 weeks
+U0835,41,Female,66.8,"vomiting, headache, chest pain",Ibuprofen,1 week
+U0836,67,Other,74.2,"joint pain, headache",Ibuprofen,2 days
+U0837,38,Male,30.1,sore throat,None,2 days
+U0838,79,Female,59.0,"vomiting, runny nose",Penicillin,1 day
+U0839,82,Male,78.3,"joint pain, cough",Sulfa,3 days
+U0840,65,Other,52.7,cough,Sulfa,3 days
+U0841,51,Other,69.8,headache,Penicillin,3 days
+U0842,44,Other,63.5,"joint pain, fever",Penicillin,1 week
+U0843,20,Other,62.2,"vomiting, sore throat, fatigue",None,2 weeks
+U0844,39,Other,80.7,"runny nose, joint pain",None,2 days
+U0845,74,Other,53.2,"cough, headache",Sulfa,1 day
+U0846,44,Female,73.9,chest pain,Ibuprofen,1 week
+U0847,24,Other,38.2,"dizziness, vomiting",None,3 days
+U0848,53,Male,64.8,vomiting,Aspirin,3 days
+U0849,28,Other,51.2,vomiting,None,2 days
+U0850,12,Female,65.4,"runny nose, headache",Penicillin,3 days
+U0851,62,Other,91.2,"joint pain, vomiting",Penicillin,1 day
+U0852,67,Other,99.5,dizziness,None,1 week
+U0853,50,Other,90.5,fever,Sulfa,1 day
+U0854,88,Other,91.0,"sore throat, fever",None,2 weeks
+U0855,85,Other,51.9,"joint pain, nausea, diarrhea",Penicillin,3 days
+U0856,26,Male,50.1,"vomiting, sore throat, diarrhea",None,3 days
+U0857,20,Male,49.2,chest pain,Ibuprofen,2 weeks
+U0858,14,Male,68.0,"vomiting, nausea, headache",Sulfa,2 weeks
+U0859,32,Male,35.0,"vomiting, runny nose, sore throat",None,2 days
+U0860,4,Female,93.2,cough,Aspirin,1 day
+U0861,12,Female,57.4,"chest pain, joint pain, diarrhea",Aspirin,2 weeks
+U0862,46,Female,53.3,dizziness,Ibuprofen,1 day
+U0863,60,Other,39.2,"sore throat, cough, joint pain",Sulfa,1 week
+U0864,61,Male,96.3,chest pain,Sulfa,3 days
+U0865,51,Male,79.0,"vomiting, joint pain, sore throat",Aspirin,1 day
+U0866,9,Female,37.9,"sore throat, headache",Sulfa,3 days
+U0867,78,Other,38.9,fatigue,None,3 days
+U0868,72,Other,35.0,"runny nose, sore throat",Aspirin,2 weeks
+U0869,53,Male,73.5,"headache, sore throat, fatigue",None,3 days
+U0870,27,Other,71.4,"chest pain, vomiting",Ibuprofen,2 days
+U0871,23,Other,76.9,"dizziness, chest pain, sore throat",None,2 weeks
+U0872,77,Female,52.8,sore throat,Penicillin,3 days
+U0873,52,Male,71.9,"chest pain, fatigue, vomiting",Aspirin,1 day
+U0874,12,Male,87.2,"joint pain, diarrhea, fever",Penicillin,2 days
+U0875,58,Other,50.4,"chest pain, sore throat, body pain",Penicillin,3 days
+U0876,39,Other,85.6,"nausea, fatigue, vomiting",None,2 weeks
+U0877,2,Other,99.0,"headache, nausea",None,3 days
+U0878,71,Male,30.1,"vomiting, cough, nausea",None,2 days
+U0879,56,Other,71.3,"vomiting, dizziness, fatigue",Aspirin,1 week
+U0880,56,Other,44.8,sore throat,Penicillin,2 days
+U0881,72,Female,89.0,"fatigue, headache",Sulfa,2 days
+U0882,18,Male,35.0,headache,Aspirin,1 week
+U0883,18,Male,39.6,"sore throat, dizziness",Ibuprofen,1 week
+U0884,80,Male,61.8,"runny nose, sore throat",Aspirin,3 days
+U0885,29,Male,59.7,chest pain,Aspirin,2 days
+U0886,65,Female,58.8,"chest pain, vomiting, fever",None,2 weeks
+U0887,62,Other,55.8,"sore throat, dizziness, cough",Penicillin,2 weeks
+U0888,36,Female,66.2,"chest pain, cough, body pain",Aspirin,1 day
+U0889,88,Other,67.7,"nausea, chest pain, fever",Sulfa,2 weeks
+U0890,2,Female,61.8,"chest pain, dizziness",Sulfa,1 week
+U0891,46,Female,50.2,dizziness,Ibuprofen,3 days
+U0892,73,Female,34.3,"chest pain, headache",Ibuprofen,1 day
+U0893,85,Female,86.6,"fever, nausea, sore throat",None,2 days
+U0894,65,Male,89.6,"nausea, headache",Ibuprofen,3 days
+U0895,36,Female,31.0,chest pain,Penicillin,2 weeks
+U0896,20,Other,61.3,nausea,Penicillin,1 week
+U0897,24,Other,90.3,"cough, headache",Ibuprofen,2 days
+U0898,64,Female,83.9,diarrhea,Aspirin,2 days
+U0899,27,Other,81.4,"fever, diarrhea",Sulfa,1 day
+U0900,7,Male,62.5,"nausea, sore throat",Ibuprofen,2 days
+U0901,49,Other,79.4,"nausea, headache",Ibuprofen,1 week
+U0902,2,Female,94.9,"fatigue, diarrhea",Sulfa,2 weeks
+U0903,88,Male,36.8,"diarrhea, vomiting, fatigue",Ibuprofen,3 days
+U0904,43,Female,48.7,nausea,Ibuprofen,1 week
+U0905,60,Other,82.4,"diarrhea, chest pain, body pain",Ibuprofen,3 days
+U0906,87,Other,99.5,"runny nose, fever",None,1 day
+U0907,2,Female,36.8,diarrhea,Aspirin,3 days
+U0908,29,Other,49.8,fever,None,2 weeks
+U0909,12,Male,95.7,"body pain, chest pain, diarrhea",None,1 day
+U0910,12,Other,39.1,"joint pain, diarrhea, chest pain",Penicillin,1 day
+U0911,90,Male,47.7,"diarrhea, cough",Aspirin,3 days
+U0912,55,Other,93.2,"nausea, headache",None,3 days
+U0913,8,Female,57.2,nausea,Sulfa,2 days
+U0914,57,Male,64.4,chest pain,Aspirin,2 days
+U0915,83,Female,37.6,"joint pain, fatigue, body pain",Ibuprofen,1 day
+U0916,57,Other,48.1,cough,None,2 weeks
+U0917,33,Female,31.3,"headache, diarrhea",None,1 day
+U0918,86,Female,48.7,"vomiting, fatigue, chest pain",None,2 weeks
+U0919,63,Female,60.5,"joint pain, cough, runny nose",Penicillin,1 day
+U0920,50,Other,87.3,"cough, chest pain",Ibuprofen,3 days
+U0921,43,Other,51.2,diarrhea,None,3 days
+U0922,69,Female,35.6,"joint pain, nausea",Penicillin,2 days
+U0923,71,Male,97.7,"body pain, nausea, fatigue",None,3 days
+U0924,63,Male,92.0,"dizziness, body pain",Penicillin,1 day
+U0925,25,Male,80.4,"body pain, sore throat, fatigue",None,2 weeks
+U0926,83,Female,65.0,"fever, joint pain",Sulfa,1 day
+U0927,44,Other,33.0,body pain,Ibuprofen,1 week
+U0928,87,Other,40.4,"body pain, cough, fever",Penicillin,1 week
+U0929,84,Male,63.0,"fever, body pain, diarrhea",Penicillin,1 day
+U0930,23,Other,33.5,"joint pain, cough",Aspirin,2 weeks
+U0931,22,Other,34.5,cough,Aspirin,2 weeks
+U0932,79,Male,34.4,fatigue,Sulfa,1 week
+U0933,42,Male,98.3,"runny nose, headache, vomiting",Penicillin,1 day
+U0934,76,Male,53.5,nausea,Penicillin,1 week
+U0935,22,Other,55.9,sore throat,Penicillin,2 weeks
+U0936,6,Male,37.0,"chest pain, fatigue, headache",None,1 week
+U0937,11,Male,30.5,dizziness,Ibuprofen,3 days
+U0938,54,Other,86.5,"dizziness, headache",Penicillin,2 days
+U0939,82,Female,66.6,"body pain, headache",Ibuprofen,1 day
+U0940,77,Male,80.2,"cough, diarrhea, nausea",Sulfa,1 week
+U0941,1,Other,46.5,runny nose,None,2 weeks
+U0942,47,Other,65.5,"joint pain, diarrhea",Penicillin,3 days
+U0943,7,Male,37.9,diarrhea,Aspirin,1 week
+U0944,23,Male,76.9,fever,Sulfa,3 days
+U0945,27,Female,47.6,"joint pain, sore throat, fever",None,1 day
+U0946,69,Male,41.1,sore throat,Ibuprofen,1 day
+U0947,10,Male,80.5,"chest pain, vomiting, fatigue",Penicillin,3 days
+U0948,30,Male,52.8,body pain,Aspirin,2 days
+U0949,49,Male,35.1,"sore throat, fever, fatigue",Penicillin,2 days
+U0950,79,Female,42.5,"headache, sore throat",Penicillin,3 days
+U0951,35,Male,53.5,dizziness,Ibuprofen,1 day
+U0952,36,Male,37.8,"sore throat, fatigue",Penicillin,3 days
+U0953,29,Female,72.3,"chest pain, headache, joint pain",Ibuprofen,2 days
+U0954,12,Female,90.0,"body pain, chest pain",Aspirin,1 week
+U0955,36,Male,81.1,"body pain, joint pain, vomiting",Aspirin,2 weeks
+U0956,29,Other,96.2,"fever, fatigue, joint pain",None,1 week
+U0957,65,Male,59.8,"sore throat, dizziness",None,1 week
+U0958,64,Male,35.8,dizziness,Aspirin,2 days
+U0959,17,Female,50.7,"cough, fever, sore throat",Sulfa,2 days
+U0960,59,Other,82.3,sore throat,Aspirin,2 days
+U0961,52,Male,85.3,"diarrhea, sore throat",None,1 day
+U0962,50,Other,53.3,nausea,Aspirin,3 days
+U0963,90,Other,68.0,joint pain,None,2 weeks
+U0964,43,Other,95.3,"diarrhea, vomiting, fever",None,1 week
+U0965,47,Female,73.3,"vomiting, headache",Ibuprofen,1 day
+U0966,72,Other,84.2,vomiting,Penicillin,2 weeks
+U0967,15,Other,63.5,"dizziness, body pain, joint pain",Sulfa,3 days
+U0968,35,Other,77.6,"fever, cough",Sulfa,3 days
+U0969,58,Female,65.1,sore throat,Ibuprofen,2 weeks
+U0970,38,Female,73.5,"dizziness, cough, body pain",Aspirin,1 day
+U0971,11,Female,92.9,"cough, joint pain",Penicillin,3 days
+U0972,15,Other,40.4,body pain,Ibuprofen,1 day
+U0973,38,Female,97.9,"headache, sore throat, vomiting",Aspirin,1 week
+U0974,83,Male,50.4,fever,Penicillin,2 weeks
+U0975,83,Female,58.8,"diarrhea, joint pain",Sulfa,1 week
+U0976,76,Other,78.8,"sore throat, joint pain, nausea",Ibuprofen,2 days
+U0977,40,Male,85.2,sore throat,Sulfa,3 days
+U0978,7,Male,54.7,"headache, chest pain",Penicillin,2 weeks
+U0979,37,Male,98.1,"dizziness, diarrhea, headache",Penicillin,2 days
+U0980,15,Male,99.6,"headache, sore throat, nausea",Sulfa,2 days
+U0981,27,Other,79.5,"vomiting, joint pain, headache",Sulfa,1 week
+U0982,70,Male,67.4,fever,Aspirin,1 week
+U0983,19,Female,94.9,fever,Ibuprofen,2 weeks
+U0984,43,Other,79.4,"nausea, chest pain",Penicillin,2 weeks
+U0985,57,Female,78.2,"sore throat, fever, headache",Ibuprofen,1 day
+U0986,40,Male,58.1,sore throat,Sulfa,1 day
+U0987,42,Male,72.6,chest pain,Ibuprofen,2 days
+U0988,36,Male,31.6,"sore throat, diarrhea, dizziness",None,2 weeks
+U0989,51,Male,64.3,"chest pain, runny nose, fever",Sulfa,1 week
+U0990,19,Other,89.8,"fatigue, vomiting",None,3 days
+U0991,45,Female,51.6,"runny nose, cough",Penicillin,1 week
+U0992,54,Female,50.2,"fatigue, dizziness, joint pain",Penicillin,2 weeks
+U0993,77,Male,40.1,"sore throat, runny nose",Sulfa,1 day
+U0994,76,Female,36.2,"diarrhea, nausea",Aspirin,2 days
+U0995,72,Female,79.7,body pain,Penicillin,1 week
+U0996,38,Other,64.3,"chest pain, nausea",Aspirin,2 weeks
+U0997,60,Male,31.9,headache,Sulfa,3 days
+U0998,82,Other,63.1,"diarrhea, nausea, fatigue",Penicillin,1 week
+U0999,89,Other,47.1,joint pain,Sulfa,1 week
+U1000,9,Other,82.2,"sore throat, chest pain, fatigue",Sulfa,1 week
