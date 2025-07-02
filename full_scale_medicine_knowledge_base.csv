@@ -1,0 +1,401 @@
+symptom_keywords,disease_name,medicine_name,category,dosage,min_age,max_age,allergy_block,special_notes
+"fever, chills, headache",Malaria,Artemether,Antimalarial,80mg x 2,10,60,None,Take with food
+"cough, fever, fatigue",Tuberculosis,Rifampicin,Antibiotic,600mg x 1,12,80,None,Use in combo therapy
+"dry cough, fever, loss of smell",COVID-19,Azithromycin,Antibiotic,500mg x 1,15,80,Macrolides,Use if bacterial co-infection suspected
+"high sugar, thirst, fatigue",Diabetes,Metformin,Antidiabetic,500mg x 2,18,90,Sulfa,Start with low dose
+"high BP, headache",Hypertension,Amlodipine,Antihypertensive,5mg x 1,20,85,None,Monitor blood pressure daily
+"wheezing, short breath",Asthma,Salbutamol,Bronchodilator,100mcg x 2,5,60,None,Use inhaler properly
+"anxiety, restlessness",Anxiety,Alprazolam,Anxiolytic,0.25mg x 1,18,60,None,Short-term use only
+"sadness, low energy",Depression,Fluoxetine,Antidepressant,20mg x 1,18,65,None,Takes weeks to act
+"vomiting, nausea",Gastritis,Omeprazole,PPI,20mg x 1,12,70,None,Take before meals
+"diarrhea, cramps",Diarrhea,Loperamide,Antidiarrheal,2mg x 2,10,65,None,Hydration is key
+"joint pain, swelling",Arthritis,Ibuprofen,NSAID,400mg x 2,20,75,Ibuprofen,Take after food
+"tooth pain, headache",General Pain,Paracetamol,Analgesic,500mg x 2,5,80,None,Max 4g/day
+"itching, redness",Eczema,Hydrocortisone,Steroid,Apply 2x,5,60,Steroids,Use thin layer
+"white patches, itching",Fungal Infection,Clotrimazole,Antifungal,Apply 2x,5,60,None,Continue even after relief
+"irregular periods, acne",PCOS,Spironolactone,Hormonal,100mg x 1,18,40,None,Avoid in pregnancy
+"vomiting, fatigue",Morning Sickness,Doxylamine,Antiemetic,10mg x 1,18,45,None,Pregnancy safe
+"fever, chills, headache",Malaria,Artemether,Antimalarial,80mg x 2,10,60,None,Take with food
+"cough, fever, fatigue",Tuberculosis,Rifampicin,Antibiotic,600mg x 1,12,80,None,Use in combo therapy
+"dry cough, fever, loss of smell",COVID-19,Azithromycin,Antibiotic,500mg x 1,15,80,Macrolides,Use if bacterial co-infection suspected
+"high sugar, thirst, fatigue",Diabetes,Metformin,Antidiabetic,500mg x 2,18,90,Sulfa,Start with low dose
+"high BP, headache",Hypertension,Amlodipine,Antihypertensive,5mg x 1,20,85,None,Monitor blood pressure daily
+"wheezing, short breath",Asthma,Salbutamol,Bronchodilator,100mcg x 2,5,60,None,Use inhaler properly
+"anxiety, restlessness",Anxiety,Alprazolam,Anxiolytic,0.25mg x 1,18,60,None,Short-term use only
+"sadness, low energy",Depression,Fluoxetine,Antidepressant,20mg x 1,18,65,None,Takes weeks to act
+"vomiting, nausea",Gastritis,Omeprazole,PPI,20mg x 1,12,70,None,Take before meals
+"diarrhea, cramps",Diarrhea,Loperamide,Antidiarrheal,2mg x 2,10,65,None,Hydration is key
+"joint pain, swelling",Arthritis,Ibuprofen,NSAID,400mg x 2,20,75,Ibuprofen,Take after food
+"tooth pain, headache",General Pain,Paracetamol,Analgesic,500mg x 2,5,80,None,Max 4g/day
+"itching, redness",Eczema,Hydrocortisone,Steroid,Apply 2x,5,60,Steroids,Use thin layer
+"white patches, itching",Fungal Infection,Clotrimazole,Antifungal,Apply 2x,5,60,None,Continue even after relief
+"irregular periods, acne",PCOS,Spironolactone,Hormonal,100mg x 1,18,40,None,Avoid in pregnancy
+"vomiting, fatigue",Morning Sickness,Doxylamine,Antiemetic,10mg x 1,18,45,None,Pregnancy safe
+"fever, chills, headache",Malaria,Artemether,Antimalarial,80mg x 2,10,60,None,Take with food
+"cough, fever, fatigue",Tuberculosis,Rifampicin,Antibiotic,600mg x 1,12,80,None,Use in combo therapy
+"dry cough, fever, loss of smell",COVID-19,Azithromycin,Antibiotic,500mg x 1,15,80,Macrolides,Use if bacterial co-infection suspected
+"high sugar, thirst, fatigue",Diabetes,Metformin,Antidiabetic,500mg x 2,18,90,Sulfa,Start with low dose
+"high BP, headache",Hypertension,Amlodipine,Antihypertensive,5mg x 1,20,85,None,Monitor blood pressure daily
+"wheezing, short breath",Asthma,Salbutamol,Bronchodilator,100mcg x 2,5,60,None,Use inhaler properly
+"anxiety, restlessness",Anxiety,Alprazolam,Anxiolytic,0.25mg x 1,18,60,None,Short-term use only
+"sadness, low energy",Depression,Fluoxetine,Antidepressant,20mg x 1,18,65,None,Takes weeks to act
+"vomiting, nausea",Gastritis,Omeprazole,PPI,20mg x 1,12,70,None,Take before meals
+"diarrhea, cramps",Diarrhea,Loperamide,Antidiarrheal,2mg x 2,10,65,None,Hydration is key
+"joint pain, swelling",Arthritis,Ibuprofen,NSAID,400mg x 2,20,75,Ibuprofen,Take after food
+"tooth pain, headache",General Pain,Paracetamol,Analgesic,500mg x 2,5,80,None,Max 4g/day
+"itching, redness",Eczema,Hydrocortisone,Steroid,Apply 2x,5,60,Steroids,Use thin layer
+"white patches, itching",Fungal Infection,Clotrimazole,Antifungal,Apply 2x,5,60,None,Continue even after relief
+"irregular periods, acne",PCOS,Spironolactone,Hormonal,100mg x 1,18,40,None,Avoid in pregnancy
+"vomiting, fatigue",Morning Sickness,Doxylamine,Antiemetic,10mg x 1,18,45,None,Pregnancy safe
+"fever, chills, headache",Malaria,Artemether,Antimalarial,80mg x 2,10,60,None,Take with food
+"cough, fever, fatigue",Tuberculosis,Rifampicin,Antibiotic,600mg x 1,12,80,None,Use in combo therapy
+"dry cough, fever, loss of smell",COVID-19,Azithromycin,Antibiotic,500mg x 1,15,80,Macrolides,Use if bacterial co-infection suspected
+"high sugar, thirst, fatigue",Diabetes,Metformin,Antidiabetic,500mg x 2,18,90,Sulfa,Start with low dose
+"high BP, headache",Hypertension,Amlodipine,Antihypertensive,5mg x 1,20,85,None,Monitor blood pressure daily
+"wheezing, short breath",Asthma,Salbutamol,Bronchodilator,100mcg x 2,5,60,None,Use inhaler properly
+"anxiety, restlessness",Anxiety,Alprazolam,Anxiolytic,0.25mg x 1,18,60,None,Short-term use only
+"sadness, low energy",Depression,Fluoxetine,Antidepressant,20mg x 1,18,65,None,Takes weeks to act
+"vomiting, nausea",Gastritis,Omeprazole,PPI,20mg x 1,12,70,None,Take before meals
+"diarrhea, cramps",Diarrhea,Loperamide,Antidiarrheal,2mg x 2,10,65,None,Hydration is key
+"joint pain, swelling",Arthritis,Ibuprofen,NSAID,400mg x 2,20,75,Ibuprofen,Take after food
+"tooth pain, headache",General Pain,Paracetamol,Analgesic,500mg x 2,5,80,None,Max 4g/day
+"itching, redness",Eczema,Hydrocortisone,Steroid,Apply 2x,5,60,Steroids,Use thin layer
+"white patches, itching",Fungal Infection,Clotrimazole,Antifungal,Apply 2x,5,60,None,Continue even after relief
+"irregular periods, acne",PCOS,Spironolactone,Hormonal,100mg x 1,18,40,None,Avoid in pregnancy
+"vomiting, fatigue",Morning Sickness,Doxylamine,Antiemetic,10mg x 1,18,45,None,Pregnancy safe
+"fever, chills, headache",Malaria,Artemether,Antimalarial,80mg x 2,10,60,None,Take with food
+"cough, fever, fatigue",Tuberculosis,Rifampicin,Antibiotic,600mg x 1,12,80,None,Use in combo therapy
+"dry cough, fever, loss of smell",COVID-19,Azithromycin,Antibiotic,500mg x 1,15,80,Macrolides,Use if bacterial co-infection suspected
+"high sugar, thirst, fatigue",Diabetes,Metformin,Antidiabetic,500mg x 2,18,90,Sulfa,Start with low dose
+"high BP, headache",Hypertension,Amlodipine,Antihypertensive,5mg x 1,20,85,None,Monitor blood pressure daily
+"wheezing, short breath",Asthma,Salbutamol,Bronchodilator,100mcg x 2,5,60,None,Use inhaler properly
+"anxiety, restlessness",Anxiety,Alprazolam,Anxiolytic,0.25mg x 1,18,60,None,Short-term use only
+"sadness, low energy",Depression,Fluoxetine,Antidepressant,20mg x 1,18,65,None,Takes weeks to act
+"vomiting, nausea",Gastritis,Omeprazole,PPI,20mg x 1,12,70,None,Take before meals
+"diarrhea, cramps",Diarrhea,Loperamide,Antidiarrheal,2mg x 2,10,65,None,Hydration is key
+"joint pain, swelling",Arthritis,Ibuprofen,NSAID,400mg x 2,20,75,Ibuprofen,Take after food
+"tooth pain, headache",General Pain,Paracetamol,Analgesic,500mg x 2,5,80,None,Max 4g/day
+"itching, redness",Eczema,Hydrocortisone,Steroid,Apply 2x,5,60,Steroids,Use thin layer
+"white patches, itching",Fungal Infection,Clotrimazole,Antifungal,Apply 2x,5,60,None,Continue even after relief
+"irregular periods, acne",PCOS,Spironolactone,Hormonal,100mg x 1,18,40,None,Avoid in pregnancy
+"vomiting, fatigue",Morning Sickness,Doxylamine,Antiemetic,10mg x 1,18,45,None,Pregnancy safe
+"fever, chills, headache",Malaria,Artemether,Antimalarial,80mg x 2,10,60,None,Take with food
+"cough, fever, fatigue",Tuberculosis,Rifampicin,Antibiotic,600mg x 1,12,80,None,Use in combo therapy
+"dry cough, fever, loss of smell",COVID-19,Azithromycin,Antibiotic,500mg x 1,15,80,Macrolides,Use if bacterial co-infection suspected
+"high sugar, thirst, fatigue",Diabetes,Metformin,Antidiabetic,500mg x 2,18,90,Sulfa,Start with low dose
+"high BP, headache",Hypertension,Amlodipine,Antihypertensive,5mg x 1,20,85,None,Monitor blood pressure daily
+"wheezing, short breath",Asthma,Salbutamol,Bronchodilator,100mcg x 2,5,60,None,Use inhaler properly
+"anxiety, restlessness",Anxiety,Alprazolam,Anxiolytic,0.25mg x 1,18,60,None,Short-term use only
+"sadness, low energy",Depression,Fluoxetine,Antidepressant,20mg x 1,18,65,None,Takes weeks to act
+"vomiting, nausea",Gastritis,Omeprazole,PPI,20mg x 1,12,70,None,Take before meals
+"diarrhea, cramps",Diarrhea,Loperamide,Antidiarrheal,2mg x 2,10,65,None,Hydration is key
+"joint pain, swelling",Arthritis,Ibuprofen,NSAID,400mg x 2,20,75,Ibuprofen,Take after food
+"tooth pain, headache",General Pain,Paracetamol,Analgesic,500mg x 2,5,80,None,Max 4g/day
+"itching, redness",Eczema,Hydrocortisone,Steroid,Apply 2x,5,60,Steroids,Use thin layer
+"white patches, itching",Fungal Infection,Clotrimazole,Antifungal,Apply 2x,5,60,None,Continue even after relief
+"irregular periods, acne",PCOS,Spironolactone,Hormonal,100mg x 1,18,40,None,Avoid in pregnancy
+"vomiting, fatigue",Morning Sickness,Doxylamine,Antiemetic,10mg x 1,18,45,None,Pregnancy safe
+"fever, chills, headache",Malaria,Artemether,Antimalarial,80mg x 2,10,60,None,Take with food
+"cough, fever, fatigue",Tuberculosis,Rifampicin,Antibiotic,600mg x 1,12,80,None,Use in combo therapy
+"dry cough, fever, loss of smell",COVID-19,Azithromycin,Antibiotic,500mg x 1,15,80,Macrolides,Use if bacterial co-infection suspected
+"high sugar, thirst, fatigue",Diabetes,Metformin,Antidiabetic,500mg x 2,18,90,Sulfa,Start with low dose
+"high BP, headache",Hypertension,Amlodipine,Antihypertensive,5mg x 1,20,85,None,Monitor blood pressure daily
+"wheezing, short breath",Asthma,Salbutamol,Bronchodilator,100mcg x 2,5,60,None,Use inhaler properly
+"anxiety, restlessness",Anxiety,Alprazolam,Anxiolytic,0.25mg x 1,18,60,None,Short-term use only
+"sadness, low energy",Depression,Fluoxetine,Antidepressant,20mg x 1,18,65,None,Takes weeks to act
+"vomiting, nausea",Gastritis,Omeprazole,PPI,20mg x 1,12,70,None,Take before meals
+"diarrhea, cramps",Diarrhea,Loperamide,Antidiarrheal,2mg x 2,10,65,None,Hydration is key
+"joint pain, swelling",Arthritis,Ibuprofen,NSAID,400mg x 2,20,75,Ibuprofen,Take after food
+"tooth pain, headache",General Pain,Paracetamol,Analgesic,500mg x 2,5,80,None,Max 4g/day
+"itching, redness",Eczema,Hydrocortisone,Steroid,Apply 2x,5,60,Steroids,Use thin layer
+"white patches, itching",Fungal Infection,Clotrimazole,Antifungal,Apply 2x,5,60,None,Continue even after relief
+"irregular periods, acne",PCOS,Spironolactone,Hormonal,100mg x 1,18,40,None,Avoid in pregnancy
+"vomiting, fatigue",Morning Sickness,Doxylamine,Antiemetic,10mg x 1,18,45,None,Pregnancy safe
+"fever, chills, headache",Malaria,Artemether,Antimalarial,80mg x 2,10,60,None,Take with food
+"cough, fever, fatigue",Tuberculosis,Rifampicin,Antibiotic,600mg x 1,12,80,None,Use in combo therapy
+"dry cough, fever, loss of smell",COVID-19,Azithromycin,Antibiotic,500mg x 1,15,80,Macrolides,Use if bacterial co-infection suspected
+"high sugar, thirst, fatigue",Diabetes,Metformin,Antidiabetic,500mg x 2,18,90,Sulfa,Start with low dose
+"high BP, headache",Hypertension,Amlodipine,Antihypertensive,5mg x 1,20,85,None,Monitor blood pressure daily
+"wheezing, short breath",Asthma,Salbutamol,Bronchodilator,100mcg x 2,5,60,None,Use inhaler properly
+"anxiety, restlessness",Anxiety,Alprazolam,Anxiolytic,0.25mg x 1,18,60,None,Short-term use only
+"sadness, low energy",Depression,Fluoxetine,Antidepressant,20mg x 1,18,65,None,Takes weeks to act
+"vomiting, nausea",Gastritis,Omeprazole,PPI,20mg x 1,12,70,None,Take before meals
+"diarrhea, cramps",Diarrhea,Loperamide,Antidiarrheal,2mg x 2,10,65,None,Hydration is key
+"joint pain, swelling",Arthritis,Ibuprofen,NSAID,400mg x 2,20,75,Ibuprofen,Take after food
+"tooth pain, headache",General Pain,Paracetamol,Analgesic,500mg x 2,5,80,None,Max 4g/day
+"itching, redness",Eczema,Hydrocortisone,Steroid,Apply 2x,5,60,Steroids,Use thin layer
+"white patches, itching",Fungal Infection,Clotrimazole,Antifungal,Apply 2x,5,60,None,Continue even after relief
+"irregular periods, acne",PCOS,Spironolactone,Hormonal,100mg x 1,18,40,None,Avoid in pregnancy
+"vomiting, fatigue",Morning Sickness,Doxylamine,Antiemetic,10mg x 1,18,45,None,Pregnancy safe
+"fever, chills, headache",Malaria,Artemether,Antimalarial,80mg x 2,10,60,None,Take with food
+"cough, fever, fatigue",Tuberculosis,Rifampicin,Antibiotic,600mg x 1,12,80,None,Use in combo therapy
+"dry cough, fever, loss of smell",COVID-19,Azithromycin,Antibiotic,500mg x 1,15,80,Macrolides,Use if bacterial co-infection suspected
+"high sugar, thirst, fatigue",Diabetes,Metformin,Antidiabetic,500mg x 2,18,90,Sulfa,Start with low dose
+"high BP, headache",Hypertension,Amlodipine,Antihypertensive,5mg x 1,20,85,None,Monitor blood pressure daily
+"wheezing, short breath",Asthma,Salbutamol,Bronchodilator,100mcg x 2,5,60,None,Use inhaler properly
+"anxiety, restlessness",Anxiety,Alprazolam,Anxiolytic,0.25mg x 1,18,60,None,Short-term use only
+"sadness, low energy",Depression,Fluoxetine,Antidepressant,20mg x 1,18,65,None,Takes weeks to act
+"vomiting, nausea",Gastritis,Omeprazole,PPI,20mg x 1,12,70,None,Take before meals
+"diarrhea, cramps",Diarrhea,Loperamide,Antidiarrheal,2mg x 2,10,65,None,Hydration is key
+"joint pain, swelling",Arthritis,Ibuprofen,NSAID,400mg x 2,20,75,Ibuprofen,Take after food
+"tooth pain, headache",General Pain,Paracetamol,Analgesic,500mg x 2,5,80,None,Max 4g/day
+"itching, redness",Eczema,Hydrocortisone,Steroid,Apply 2x,5,60,Steroids,Use thin layer
+"white patches, itching",Fungal Infection,Clotrimazole,Antifungal,Apply 2x,5,60,None,Continue even after relief
+"irregular periods, acne",PCOS,Spironolactone,Hormonal,100mg x 1,18,40,None,Avoid in pregnancy
+"vomiting, fatigue",Morning Sickness,Doxylamine,Antiemetic,10mg x 1,18,45,None,Pregnancy safe
+"fever, chills, headache",Malaria,Artemether,Antimalarial,80mg x 2,10,60,None,Take with food
+"cough, fever, fatigue",Tuberculosis,Rifampicin,Antibiotic,600mg x 1,12,80,None,Use in combo therapy
+"dry cough, fever, loss of smell",COVID-19,Azithromycin,Antibiotic,500mg x 1,15,80,Macrolides,Use if bacterial co-infection suspected
+"high sugar, thirst, fatigue",Diabetes,Metformin,Antidiabetic,500mg x 2,18,90,Sulfa,Start with low dose
+"high BP, headache",Hypertension,Amlodipine,Antihypertensive,5mg x 1,20,85,None,Monitor blood pressure daily
+"wheezing, short breath",Asthma,Salbutamol,Bronchodilator,100mcg x 2,5,60,None,Use inhaler properly
+"anxiety, restlessness",Anxiety,Alprazolam,Anxiolytic,0.25mg x 1,18,60,None,Short-term use only
+"sadness, low energy",Depression,Fluoxetine,Antidepressant,20mg x 1,18,65,None,Takes weeks to act
+"vomiting, nausea",Gastritis,Omeprazole,PPI,20mg x 1,12,70,None,Take before meals
+"diarrhea, cramps",Diarrhea,Loperamide,Antidiarrheal,2mg x 2,10,65,None,Hydration is key
+"joint pain, swelling",Arthritis,Ibuprofen,NSAID,400mg x 2,20,75,Ibuprofen,Take after food
+"tooth pain, headache",General Pain,Paracetamol,Analgesic,500mg x 2,5,80,None,Max 4g/day
+"itching, redness",Eczema,Hydrocortisone,Steroid,Apply 2x,5,60,Steroids,Use thin layer
+"white patches, itching",Fungal Infection,Clotrimazole,Antifungal,Apply 2x,5,60,None,Continue even after relief
+"irregular periods, acne",PCOS,Spironolactone,Hormonal,100mg x 1,18,40,None,Avoid in pregnancy
+"vomiting, fatigue",Morning Sickness,Doxylamine,Antiemetic,10mg x 1,18,45,None,Pregnancy safe
+"fever, chills, headache",Malaria,Artemether,Antimalarial,80mg x 2,10,60,None,Take with food
+"cough, fever, fatigue",Tuberculosis,Rifampicin,Antibiotic,600mg x 1,12,80,None,Use in combo therapy
+"dry cough, fever, loss of smell",COVID-19,Azithromycin,Antibiotic,500mg x 1,15,80,Macrolides,Use if bacterial co-infection suspected
+"high sugar, thirst, fatigue",Diabetes,Metformin,Antidiabetic,500mg x 2,18,90,Sulfa,Start with low dose
+"high BP, headache",Hypertension,Amlodipine,Antihypertensive,5mg x 1,20,85,None,Monitor blood pressure daily
+"wheezing, short breath",Asthma,Salbutamol,Bronchodilator,100mcg x 2,5,60,None,Use inhaler properly
+"anxiety, restlessness",Anxiety,Alprazolam,Anxiolytic,0.25mg x 1,18,60,None,Short-term use only
+"sadness, low energy",Depression,Fluoxetine,Antidepressant,20mg x 1,18,65,None,Takes weeks to act
+"vomiting, nausea",Gastritis,Omeprazole,PPI,20mg x 1,12,70,None,Take before meals
+"diarrhea, cramps",Diarrhea,Loperamide,Antidiarrheal,2mg x 2,10,65,None,Hydration is key
+"joint pain, swelling",Arthritis,Ibuprofen,NSAID,400mg x 2,20,75,Ibuprofen,Take after food
+"tooth pain, headache",General Pain,Paracetamol,Analgesic,500mg x 2,5,80,None,Max 4g/day
+"itching, redness",Eczema,Hydrocortisone,Steroid,Apply 2x,5,60,Steroids,Use thin layer
+"white patches, itching",Fungal Infection,Clotrimazole,Antifungal,Apply 2x,5,60,None,Continue even after relief
+"irregular periods, acne",PCOS,Spironolactone,Hormonal,100mg x 1,18,40,None,Avoid in pregnancy
+"vomiting, fatigue",Morning Sickness,Doxylamine,Antiemetic,10mg x 1,18,45,None,Pregnancy safe
+"fever, chills, headache",Malaria,Artemether,Antimalarial,80mg x 2,10,60,None,Take with food
+"cough, fever, fatigue",Tuberculosis,Rifampicin,Antibiotic,600mg x 1,12,80,None,Use in combo therapy
+"dry cough, fever, loss of smell",COVID-19,Azithromycin,Antibiotic,500mg x 1,15,80,Macrolides,Use if bacterial co-infection suspected
+"high sugar, thirst, fatigue",Diabetes,Metformin,Antidiabetic,500mg x 2,18,90,Sulfa,Start with low dose
+"high BP, headache",Hypertension,Amlodipine,Antihypertensive,5mg x 1,20,85,None,Monitor blood pressure daily
+"wheezing, short breath",Asthma,Salbutamol,Bronchodilator,100mcg x 2,5,60,None,Use inhaler properly
+"anxiety, restlessness",Anxiety,Alprazolam,Anxiolytic,0.25mg x 1,18,60,None,Short-term use only
+"sadness, low energy",Depression,Fluoxetine,Antidepressant,20mg x 1,18,65,None,Takes weeks to act
+"vomiting, nausea",Gastritis,Omeprazole,PPI,20mg x 1,12,70,None,Take before meals
+"diarrhea, cramps",Diarrhea,Loperamide,Antidiarrheal,2mg x 2,10,65,None,Hydration is key
+"joint pain, swelling",Arthritis,Ibuprofen,NSAID,400mg x 2,20,75,Ibuprofen,Take after food
+"tooth pain, headache",General Pain,Paracetamol,Analgesic,500mg x 2,5,80,None,Max 4g/day
+"itching, redness",Eczema,Hydrocortisone,Steroid,Apply 2x,5,60,Steroids,Use thin layer
+"white patches, itching",Fungal Infection,Clotrimazole,Antifungal,Apply 2x,5,60,None,Continue even after relief
+"irregular periods, acne",PCOS,Spironolactone,Hormonal,100mg x 1,18,40,None,Avoid in pregnancy
+"vomiting, fatigue",Morning Sickness,Doxylamine,Antiemetic,10mg x 1,18,45,None,Pregnancy safe
+"fever, chills, headache",Malaria,Artemether,Antimalarial,80mg x 2,10,60,None,Take with food
+"cough, fever, fatigue",Tuberculosis,Rifampicin,Antibiotic,600mg x 1,12,80,None,Use in combo therapy
+"dry cough, fever, loss of smell",COVID-19,Azithromycin,Antibiotic,500mg x 1,15,80,Macrolides,Use if bacterial co-infection suspected
+"high sugar, thirst, fatigue",Diabetes,Metformin,Antidiabetic,500mg x 2,18,90,Sulfa,Start with low dose
+"high BP, headache",Hypertension,Amlodipine,Antihypertensive,5mg x 1,20,85,None,Monitor blood pressure daily
+"wheezing, short breath",Asthma,Salbutamol,Bronchodilator,100mcg x 2,5,60,None,Use inhaler properly
+"anxiety, restlessness",Anxiety,Alprazolam,Anxiolytic,0.25mg x 1,18,60,None,Short-term use only
+"sadness, low energy",Depression,Fluoxetine,Antidepressant,20mg x 1,18,65,None,Takes weeks to act
+"vomiting, nausea",Gastritis,Omeprazole,PPI,20mg x 1,12,70,None,Take before meals
+"diarrhea, cramps",Diarrhea,Loperamide,Antidiarrheal,2mg x 2,10,65,None,Hydration is key
+"joint pain, swelling",Arthritis,Ibuprofen,NSAID,400mg x 2,20,75,Ibuprofen,Take after food
+"tooth pain, headache",General Pain,Paracetamol,Analgesic,500mg x 2,5,80,None,Max 4g/day
+"itching, redness",Eczema,Hydrocortisone,Steroid,Apply 2x,5,60,Steroids,Use thin layer
+"white patches, itching",Fungal Infection,Clotrimazole,Antifungal,Apply 2x,5,60,None,Continue even after relief
+"irregular periods, acne",PCOS,Spironolactone,Hormonal,100mg x 1,18,40,None,Avoid in pregnancy
+"vomiting, fatigue",Morning Sickness,Doxylamine,Antiemetic,10mg x 1,18,45,None,Pregnancy safe
+"fever, chills, headache",Malaria,Artemether,Antimalarial,80mg x 2,10,60,None,Take with food
+"cough, fever, fatigue",Tuberculosis,Rifampicin,Antibiotic,600mg x 1,12,80,None,Use in combo therapy
+"dry cough, fever, loss of smell",COVID-19,Azithromycin,Antibiotic,500mg x 1,15,80,Macrolides,Use if bacterial co-infection suspected
+"high sugar, thirst, fatigue",Diabetes,Metformin,Antidiabetic,500mg x 2,18,90,Sulfa,Start with low dose
+"high BP, headache",Hypertension,Amlodipine,Antihypertensive,5mg x 1,20,85,None,Monitor blood pressure daily
+"wheezing, short breath",Asthma,Salbutamol,Bronchodilator,100mcg x 2,5,60,None,Use inhaler properly
+"anxiety, restlessness",Anxiety,Alprazolam,Anxiolytic,0.25mg x 1,18,60,None,Short-term use only
+"sadness, low energy",Depression,Fluoxetine,Antidepressant,20mg x 1,18,65,None,Takes weeks to act
+"vomiting, nausea",Gastritis,Omeprazole,PPI,20mg x 1,12,70,None,Take before meals
+"diarrhea, cramps",Diarrhea,Loperamide,Antidiarrheal,2mg x 2,10,65,None,Hydration is key
+"joint pain, swelling",Arthritis,Ibuprofen,NSAID,400mg x 2,20,75,Ibuprofen,Take after food
+"tooth pain, headache",General Pain,Paracetamol,Analgesic,500mg x 2,5,80,None,Max 4g/day
+"itching, redness",Eczema,Hydrocortisone,Steroid,Apply 2x,5,60,Steroids,Use thin layer
+"white patches, itching",Fungal Infection,Clotrimazole,Antifungal,Apply 2x,5,60,None,Continue even after relief
+"irregular periods, acne",PCOS,Spironolactone,Hormonal,100mg x 1,18,40,None,Avoid in pregnancy
+"vomiting, fatigue",Morning Sickness,Doxylamine,Antiemetic,10mg x 1,18,45,None,Pregnancy safe
+"fever, chills, headache",Malaria,Artemether,Antimalarial,80mg x 2,10,60,None,Take with food
+"cough, fever, fatigue",Tuberculosis,Rifampicin,Antibiotic,600mg x 1,12,80,None,Use in combo therapy
+"dry cough, fever, loss of smell",COVID-19,Azithromycin,Antibiotic,500mg x 1,15,80,Macrolides,Use if bacterial co-infection suspected
+"high sugar, thirst, fatigue",Diabetes,Metformin,Antidiabetic,500mg x 2,18,90,Sulfa,Start with low dose
+"high BP, headache",Hypertension,Amlodipine,Antihypertensive,5mg x 1,20,85,None,Monitor blood pressure daily
+"wheezing, short breath",Asthma,Salbutamol,Bronchodilator,100mcg x 2,5,60,None,Use inhaler properly
+"anxiety, restlessness",Anxiety,Alprazolam,Anxiolytic,0.25mg x 1,18,60,None,Short-term use only
+"sadness, low energy",Depression,Fluoxetine,Antidepressant,20mg x 1,18,65,None,Takes weeks to act
+"vomiting, nausea",Gastritis,Omeprazole,PPI,20mg x 1,12,70,None,Take before meals
+"diarrhea, cramps",Diarrhea,Loperamide,Antidiarrheal,2mg x 2,10,65,None,Hydration is key
+"joint pain, swelling",Arthritis,Ibuprofen,NSAID,400mg x 2,20,75,Ibuprofen,Take after food
+"tooth pain, headache",General Pain,Paracetamol,Analgesic,500mg x 2,5,80,None,Max 4g/day
+"itching, redness",Eczema,Hydrocortisone,Steroid,Apply 2x,5,60,Steroids,Use thin layer
+"white patches, itching",Fungal Infection,Clotrimazole,Antifungal,Apply 2x,5,60,None,Continue even after relief
+"irregular periods, acne",PCOS,Spironolactone,Hormonal,100mg x 1,18,40,None,Avoid in pregnancy
+"vomiting, fatigue",Morning Sickness,Doxylamine,Antiemetic,10mg x 1,18,45,None,Pregnancy safe
+"fever, chills, headache",Malaria,Artemether,Antimalarial,80mg x 2,10,60,None,Take with food
+"cough, fever, fatigue",Tuberculosis,Rifampicin,Antibiotic,600mg x 1,12,80,None,Use in combo therapy
+"dry cough, fever, loss of smell",COVID-19,Azithromycin,Antibiotic,500mg x 1,15,80,Macrolides,Use if bacterial co-infection suspected
+"high sugar, thirst, fatigue",Diabetes,Metformin,Antidiabetic,500mg x 2,18,90,Sulfa,Start with low dose
+"high BP, headache",Hypertension,Amlodipine,Antihypertensive,5mg x 1,20,85,None,Monitor blood pressure daily
+"wheezing, short breath",Asthma,Salbutamol,Bronchodilator,100mcg x 2,5,60,None,Use inhaler properly
+"anxiety, restlessness",Anxiety,Alprazolam,Anxiolytic,0.25mg x 1,18,60,None,Short-term use only
+"sadness, low energy",Depression,Fluoxetine,Antidepressant,20mg x 1,18,65,None,Takes weeks to act
+"vomiting, nausea",Gastritis,Omeprazole,PPI,20mg x 1,12,70,None,Take before meals
+"diarrhea, cramps",Diarrhea,Loperamide,Antidiarrheal,2mg x 2,10,65,None,Hydration is key
+"joint pain, swelling",Arthritis,Ibuprofen,NSAID,400mg x 2,20,75,Ibuprofen,Take after food
+"tooth pain, headache",General Pain,Paracetamol,Analgesic,500mg x 2,5,80,None,Max 4g/day
+"itching, redness",Eczema,Hydrocortisone,Steroid,Apply 2x,5,60,Steroids,Use thin layer
+"white patches, itching",Fungal Infection,Clotrimazole,Antifungal,Apply 2x,5,60,None,Continue even after relief
+"irregular periods, acne",PCOS,Spironolactone,Hormonal,100mg x 1,18,40,None,Avoid in pregnancy
+"vomiting, fatigue",Morning Sickness,Doxylamine,Antiemetic,10mg x 1,18,45,None,Pregnancy safe
+"fever, chills, headache",Malaria,Artemether,Antimalarial,80mg x 2,10,60,None,Take with food
+"cough, fever, fatigue",Tuberculosis,Rifampicin,Antibiotic,600mg x 1,12,80,None,Use in combo therapy
+"dry cough, fever, loss of smell",COVID-19,Azithromycin,Antibiotic,500mg x 1,15,80,Macrolides,Use if bacterial co-infection suspected
+"high sugar, thirst, fatigue",Diabetes,Metformin,Antidiabetic,500mg x 2,18,90,Sulfa,Start with low dose
+"high BP, headache",Hypertension,Amlodipine,Antihypertensive,5mg x 1,20,85,None,Monitor blood pressure daily
+"wheezing, short breath",Asthma,Salbutamol,Bronchodilator,100mcg x 2,5,60,None,Use inhaler properly
+"anxiety, restlessness",Anxiety,Alprazolam,Anxiolytic,0.25mg x 1,18,60,None,Short-term use only
+"sadness, low energy",Depression,Fluoxetine,Antidepressant,20mg x 1,18,65,None,Takes weeks to act
+"vomiting, nausea",Gastritis,Omeprazole,PPI,20mg x 1,12,70,None,Take before meals
+"diarrhea, cramps",Diarrhea,Loperamide,Antidiarrheal,2mg x 2,10,65,None,Hydration is key
+"joint pain, swelling",Arthritis,Ibuprofen,NSAID,400mg x 2,20,75,Ibuprofen,Take after food
+"tooth pain, headache",General Pain,Paracetamol,Analgesic,500mg x 2,5,80,None,Max 4g/day
+"itching, redness",Eczema,Hydrocortisone,Steroid,Apply 2x,5,60,Steroids,Use thin layer
+"white patches, itching",Fungal Infection,Clotrimazole,Antifungal,Apply 2x,5,60,None,Continue even after relief
+"irregular periods, acne",PCOS,Spironolactone,Hormonal,100mg x 1,18,40,None,Avoid in pregnancy
+"vomiting, fatigue",Morning Sickness,Doxylamine,Antiemetic,10mg x 1,18,45,None,Pregnancy safe
+"fever, chills, headache",Malaria,Artemether,Antimalarial,80mg x 2,10,60,None,Take with food
+"cough, fever, fatigue",Tuberculosis,Rifampicin,Antibiotic,600mg x 1,12,80,None,Use in combo therapy
+"dry cough, fever, loss of smell",COVID-19,Azithromycin,Antibiotic,500mg x 1,15,80,Macrolides,Use if bacterial co-infection suspected
+"high sugar, thirst, fatigue",Diabetes,Metformin,Antidiabetic,500mg x 2,18,90,Sulfa,Start with low dose
+"high BP, headache",Hypertension,Amlodipine,Antihypertensive,5mg x 1,20,85,None,Monitor blood pressure daily
+"wheezing, short breath",Asthma,Salbutamol,Bronchodilator,100mcg x 2,5,60,None,Use inhaler properly
+"anxiety, restlessness",Anxiety,Alprazolam,Anxiolytic,0.25mg x 1,18,60,None,Short-term use only
+"sadness, low energy",Depression,Fluoxetine,Antidepressant,20mg x 1,18,65,None,Takes weeks to act
+"vomiting, nausea",Gastritis,Omeprazole,PPI,20mg x 1,12,70,None,Take before meals
+"diarrhea, cramps",Diarrhea,Loperamide,Antidiarrheal,2mg x 2,10,65,None,Hydration is key
+"joint pain, swelling",Arthritis,Ibuprofen,NSAID,400mg x 2,20,75,Ibuprofen,Take after food
+"tooth pain, headache",General Pain,Paracetamol,Analgesic,500mg x 2,5,80,None,Max 4g/day
+"itching, redness",Eczema,Hydrocortisone,Steroid,Apply 2x,5,60,Steroids,Use thin layer
+"white patches, itching",Fungal Infection,Clotrimazole,Antifungal,Apply 2x,5,60,None,Continue even after relief
+"irregular periods, acne",PCOS,Spironolactone,Hormonal,100mg x 1,18,40,None,Avoid in pregnancy
+"vomiting, fatigue",Morning Sickness,Doxylamine,Antiemetic,10mg x 1,18,45,None,Pregnancy safe
+"fever, chills, headache",Malaria,Artemether,Antimalarial,80mg x 2,10,60,None,Take with food
+"cough, fever, fatigue",Tuberculosis,Rifampicin,Antibiotic,600mg x 1,12,80,None,Use in combo therapy
+"dry cough, fever, loss of smell",COVID-19,Azithromycin,Antibiotic,500mg x 1,15,80,Macrolides,Use if bacterial co-infection suspected
+"high sugar, thirst, fatigue",Diabetes,Metformin,Antidiabetic,500mg x 2,18,90,Sulfa,Start with low dose
+"high BP, headache",Hypertension,Amlodipine,Antihypertensive,5mg x 1,20,85,None,Monitor blood pressure daily
+"wheezing, short breath",Asthma,Salbutamol,Bronchodilator,100mcg x 2,5,60,None,Use inhaler properly
+"anxiety, restlessness",Anxiety,Alprazolam,Anxiolytic,0.25mg x 1,18,60,None,Short-term use only
+"sadness, low energy",Depression,Fluoxetine,Antidepressant,20mg x 1,18,65,None,Takes weeks to act
+"vomiting, nausea",Gastritis,Omeprazole,PPI,20mg x 1,12,70,None,Take before meals
+"diarrhea, cramps",Diarrhea,Loperamide,Antidiarrheal,2mg x 2,10,65,None,Hydration is key
+"joint pain, swelling",Arthritis,Ibuprofen,NSAID,400mg x 2,20,75,Ibuprofen,Take after food
+"tooth pain, headache",General Pain,Paracetamol,Analgesic,500mg x 2,5,80,None,Max 4g/day
+"itching, redness",Eczema,Hydrocortisone,Steroid,Apply 2x,5,60,Steroids,Use thin layer
+"white patches, itching",Fungal Infection,Clotrimazole,Antifungal,Apply 2x,5,60,None,Continue even after relief
+"irregular periods, acne",PCOS,Spironolactone,Hormonal,100mg x 1,18,40,None,Avoid in pregnancy
+"vomiting, fatigue",Morning Sickness,Doxylamine,Antiemetic,10mg x 1,18,45,None,Pregnancy safe
+"fever, chills, headache",Malaria,Artemether,Antimalarial,80mg x 2,10,60,None,Take with food
+"cough, fever, fatigue",Tuberculosis,Rifampicin,Antibiotic,600mg x 1,12,80,None,Use in combo therapy
+"dry cough, fever, loss of smell",COVID-19,Azithromycin,Antibiotic,500mg x 1,15,80,Macrolides,Use if bacterial co-infection suspected
+"high sugar, thirst, fatigue",Diabetes,Metformin,Antidiabetic,500mg x 2,18,90,Sulfa,Start with low dose
+"high BP, headache",Hypertension,Amlodipine,Antihypertensive,5mg x 1,20,85,None,Monitor blood pressure daily
+"wheezing, short breath",Asthma,Salbutamol,Bronchodilator,100mcg x 2,5,60,None,Use inhaler properly
+"anxiety, restlessness",Anxiety,Alprazolam,Anxiolytic,0.25mg x 1,18,60,None,Short-term use only
+"sadness, low energy",Depression,Fluoxetine,Antidepressant,20mg x 1,18,65,None,Takes weeks to act
+"vomiting, nausea",Gastritis,Omeprazole,PPI,20mg x 1,12,70,None,Take before meals
+"diarrhea, cramps",Diarrhea,Loperamide,Antidiarrheal,2mg x 2,10,65,None,Hydration is key
+"joint pain, swelling",Arthritis,Ibuprofen,NSAID,400mg x 2,20,75,Ibuprofen,Take after food
+"tooth pain, headache",General Pain,Paracetamol,Analgesic,500mg x 2,5,80,None,Max 4g/day
+"itching, redness",Eczema,Hydrocortisone,Steroid,Apply 2x,5,60,Steroids,Use thin layer
+"white patches, itching",Fungal Infection,Clotrimazole,Antifungal,Apply 2x,5,60,None,Continue even after relief
+"irregular periods, acne",PCOS,Spironolactone,Hormonal,100mg x 1,18,40,None,Avoid in pregnancy
+"vomiting, fatigue",Morning Sickness,Doxylamine,Antiemetic,10mg x 1,18,45,None,Pregnancy safe
+"fever, chills, headache",Malaria,Artemether,Antimalarial,80mg x 2,10,60,None,Take with food
+"cough, fever, fatigue",Tuberculosis,Rifampicin,Antibiotic,600mg x 1,12,80,None,Use in combo therapy
+"dry cough, fever, loss of smell",COVID-19,Azithromycin,Antibiotic,500mg x 1,15,80,Macrolides,Use if bacterial co-infection suspected
+"high sugar, thirst, fatigue",Diabetes,Metformin,Antidiabetic,500mg x 2,18,90,Sulfa,Start with low dose
+"high BP, headache",Hypertension,Amlodipine,Antihypertensive,5mg x 1,20,85,None,Monitor blood pressure daily
+"wheezing, short breath",Asthma,Salbutamol,Bronchodilator,100mcg x 2,5,60,None,Use inhaler properly
+"anxiety, restlessness",Anxiety,Alprazolam,Anxiolytic,0.25mg x 1,18,60,None,Short-term use only
+"sadness, low energy",Depression,Fluoxetine,Antidepressant,20mg x 1,18,65,None,Takes weeks to act
+"vomiting, nausea",Gastritis,Omeprazole,PPI,20mg x 1,12,70,None,Take before meals
+"diarrhea, cramps",Diarrhea,Loperamide,Antidiarrheal,2mg x 2,10,65,None,Hydration is key
+"joint pain, swelling",Arthritis,Ibuprofen,NSAID,400mg x 2,20,75,Ibuprofen,Take after food
+"tooth pain, headache",General Pain,Paracetamol,Analgesic,500mg x 2,5,80,None,Max 4g/day
+"itching, redness",Eczema,Hydrocortisone,Steroid,Apply 2x,5,60,Steroids,Use thin layer
+"white patches, itching",Fungal Infection,Clotrimazole,Antifungal,Apply 2x,5,60,None,Continue even after relief
+"irregular periods, acne",PCOS,Spironolactone,Hormonal,100mg x 1,18,40,None,Avoid in pregnancy
+"vomiting, fatigue",Morning Sickness,Doxylamine,Antiemetic,10mg x 1,18,45,None,Pregnancy safe
+"fever, chills, headache",Malaria,Artemether,Antimalarial,80mg x 2,10,60,None,Take with food
+"cough, fever, fatigue",Tuberculosis,Rifampicin,Antibiotic,600mg x 1,12,80,None,Use in combo therapy
+"dry cough, fever, loss of smell",COVID-19,Azithromycin,Antibiotic,500mg x 1,15,80,Macrolides,Use if bacterial co-infection suspected
+"high sugar, thirst, fatigue",Diabetes,Metformin,Antidiabetic,500mg x 2,18,90,Sulfa,Start with low dose
+"high BP, headache",Hypertension,Amlodipine,Antihypertensive,5mg x 1,20,85,None,Monitor blood pressure daily
+"wheezing, short breath",Asthma,Salbutamol,Bronchodilator,100mcg x 2,5,60,None,Use inhaler properly
+"anxiety, restlessness",Anxiety,Alprazolam,Anxiolytic,0.25mg x 1,18,60,None,Short-term use only
+"sadness, low energy",Depression,Fluoxetine,Antidepressant,20mg x 1,18,65,None,Takes weeks to act
+"vomiting, nausea",Gastritis,Omeprazole,PPI,20mg x 1,12,70,None,Take before meals
+"diarrhea, cramps",Diarrhea,Loperamide,Antidiarrheal,2mg x 2,10,65,None,Hydration is key
+"joint pain, swelling",Arthritis,Ibuprofen,NSAID,400mg x 2,20,75,Ibuprofen,Take after food
+"tooth pain, headache",General Pain,Paracetamol,Analgesic,500mg x 2,5,80,None,Max 4g/day
+"itching, redness",Eczema,Hydrocortisone,Steroid,Apply 2x,5,60,Steroids,Use thin layer
+"white patches, itching",Fungal Infection,Clotrimazole,Antifungal,Apply 2x,5,60,None,Continue even after relief
+"irregular periods, acne",PCOS,Spironolactone,Hormonal,100mg x 1,18,40,None,Avoid in pregnancy
+"vomiting, fatigue",Morning Sickness,Doxylamine,Antiemetic,10mg x 1,18,45,None,Pregnancy safe
+"fever, chills, headache",Malaria,Artemether,Antimalarial,80mg x 2,10,60,None,Take with food
+"cough, fever, fatigue",Tuberculosis,Rifampicin,Antibiotic,600mg x 1,12,80,None,Use in combo therapy
+"dry cough, fever, loss of smell",COVID-19,Azithromycin,Antibiotic,500mg x 1,15,80,Macrolides,Use if bacterial co-infection suspected
+"high sugar, thirst, fatigue",Diabetes,Metformin,Antidiabetic,500mg x 2,18,90,Sulfa,Start with low dose
+"high BP, headache",Hypertension,Amlodipine,Antihypertensive,5mg x 1,20,85,None,Monitor blood pressure daily
+"wheezing, short breath",Asthma,Salbutamol,Bronchodilator,100mcg x 2,5,60,None,Use inhaler properly
+"anxiety, restlessness",Anxiety,Alprazolam,Anxiolytic,0.25mg x 1,18,60,None,Short-term use only
+"sadness, low energy",Depression,Fluoxetine,Antidepressant,20mg x 1,18,65,None,Takes weeks to act
+"vomiting, nausea",Gastritis,Omeprazole,PPI,20mg x 1,12,70,None,Take before meals
+"diarrhea, cramps",Diarrhea,Loperamide,Antidiarrheal,2mg x 2,10,65,None,Hydration is key
+"joint pain, swelling",Arthritis,Ibuprofen,NSAID,400mg x 2,20,75,Ibuprofen,Take after food
+"tooth pain, headache",General Pain,Paracetamol,Analgesic,500mg x 2,5,80,None,Max 4g/day
+"itching, redness",Eczema,Hydrocortisone,Steroid,Apply 2x,5,60,Steroids,Use thin layer
+"white patches, itching",Fungal Infection,Clotrimazole,Antifungal,Apply 2x,5,60,None,Continue even after relief
+"irregular periods, acne",PCOS,Spironolactone,Hormonal,100mg x 1,18,40,None,Avoid in pregnancy
+"vomiting, fatigue",Morning Sickness,Doxylamine,Antiemetic,10mg x 1,18,45,None,Pregnancy safe
+"fever, chills, headache",Malaria,Artemether,Antimalarial,80mg x 2,10,60,None,Take with food
+"cough, fever, fatigue",Tuberculosis,Rifampicin,Antibiotic,600mg x 1,12,80,None,Use in combo therapy
+"dry cough, fever, loss of smell",COVID-19,Azithromycin,Antibiotic,500mg x 1,15,80,Macrolides,Use if bacterial co-infection suspected
+"high sugar, thirst, fatigue",Diabetes,Metformin,Antidiabetic,500mg x 2,18,90,Sulfa,Start with low dose
+"high BP, headache",Hypertension,Amlodipine,Antihypertensive,5mg x 1,20,85,None,Monitor blood pressure daily
+"wheezing, short breath",Asthma,Salbutamol,Bronchodilator,100mcg x 2,5,60,None,Use inhaler properly
+"anxiety, restlessness",Anxiety,Alprazolam,Anxiolytic,0.25mg x 1,18,60,None,Short-term use only
+"sadness, low energy",Depression,Fluoxetine,Antidepressant,20mg x 1,18,65,None,Takes weeks to act
+"vomiting, nausea",Gastritis,Omeprazole,PPI,20mg x 1,12,70,None,Take before meals
+"diarrhea, cramps",Diarrhea,Loperamide,Antidiarrheal,2mg x 2,10,65,None,Hydration is key
+"joint pain, swelling",Arthritis,Ibuprofen,NSAID,400mg x 2,20,75,Ibuprofen,Take after food
+"tooth pain, headache",General Pain,Paracetamol,Analgesic,500mg x 2,5,80,None,Max 4g/day
+"itching, redness",Eczema,Hydrocortisone,Steroid,Apply 2x,5,60,Steroids,Use thin layer
+"white patches, itching",Fungal Infection,Clotrimazole,Antifungal,Apply 2x,5,60,None,Continue even after relief
+"irregular periods, acne",PCOS,Spironolactone,Hormonal,100mg x 1,18,40,None,Avoid in pregnancy
+"vomiting, fatigue",Morning Sickness,Doxylamine,Antiemetic,10mg x 1,18,45,None,Pregnancy safe
+"fever, chills, headache",Malaria,Artemether,Antimalarial,80mg x 2,10,60,None,Take with food
+"cough, fever, fatigue",Tuberculosis,Rifampicin,Antibiotic,600mg x 1,12,80,None,Use in combo therapy
+"dry cough, fever, loss of smell",COVID-19,Azithromycin,Antibiotic,500mg x 1,15,80,Macrolides,Use if bacterial co-infection suspected
+"high sugar, thirst, fatigue",Diabetes,Metformin,Antidiabetic,500mg x 2,18,90,Sulfa,Start with low dose
+"high BP, headache",Hypertension,Amlodipine,Antihypertensive,5mg x 1,20,85,None,Monitor blood pressure daily
+"wheezing, short breath",Asthma,Salbutamol,Bronchodilator,100mcg x 2,5,60,None,Use inhaler properly
+"anxiety, restlessness",Anxiety,Alprazolam,Anxiolytic,0.25mg x 1,18,60,None,Short-term use only
+"sadness, low energy",Depression,Fluoxetine,Antidepressant,20mg x 1,18,65,None,Takes weeks to act
+"vomiting, nausea",Gastritis,Omeprazole,PPI,20mg x 1,12,70,None,Take before meals
+"diarrhea, cramps",Diarrhea,Loperamide,Antidiarrheal,2mg x 2,10,65,None,Hydration is key
+"joint pain, swelling",Arthritis,Ibuprofen,NSAID,400mg x 2,20,75,Ibuprofen,Take after food
+"tooth pain, headache",General Pain,Paracetamol,Analgesic,500mg x 2,5,80,None,Max 4g/day
+"itching, redness",Eczema,Hydrocortisone,Steroid,Apply 2x,5,60,Steroids,Use thin layer
+"white patches, itching",Fungal Infection,Clotrimazole,Antifungal,Apply 2x,5,60,None,Continue even after relief
+"irregular periods, acne",PCOS,Spironolactone,Hormonal,100mg x 1,18,40,None,Avoid in pregnancy
+"vomiting, fatigue",Morning Sickness,Doxylamine,Antiemetic,10mg x 1,18,45,None,Pregnancy safe
